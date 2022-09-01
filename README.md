@@ -18,8 +18,6 @@ This course is a practical, hands-on exploration of physically interactive techn
 
 ## Week 1: Introductions and Electronics
 
-### Class Notes:
-
 Welcome to physical computing! In this first session, we'll overview the course, discuss interactive systems, and introduce basic electronics terminologies and concepts:
 
 - What is physical interaction? Differences between inplicit and explicit interactions.
@@ -45,8 +43,6 @@ Welcome to physical computing! In this first session, we'll overview the course,
 
 ## Week 2: Microcontrollers
 
-### Class Notes:
-
 - Homework discussion: share your switch projects, and go over questions about electronics or anything that came up.
 - Microcontroller Definition, Arduino boards, programming environment
 - Introduction to programming loops and logics
@@ -60,8 +56,6 @@ Welcome to physical computing! In this first session, we'll overview the course,
 
 ## Week 3: Programming
 
-### Class Notes:
-
 - Homework discussion
 - A little more programming: Memory and variables, data types, binary and bytes
 - A little more interfacing: Switches beyound push buttons, analog inputs
@@ -73,8 +67,6 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Lab: Servo Control
 
 ## Week 4: Data and Communication
-
-### Class Notes:
 
 - Homework discussion
 - Serial Communication: Theory, protocols, handshaking, interfacing with different softwares
@@ -88,8 +80,6 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Initial idea for Midterm project
 
 ## Week 5: Project Preparation
-
-### Class Notes:
 
 - Homework discussion
 - Midterm project pitch
