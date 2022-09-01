@@ -54,19 +54,18 @@ Welcome to physical computing! In this first session, we'll overview the course,
 
 - Lab: Digital Input + Output
 - Lab: Analog Input
-- Project: LED?
+- Project
 
 ### Week 3: Programming
 
 - Homework discussion
 - A little more programming: Memory and variables, data types, binary and bytes
 - A little more interfacing: Switches beyound push buttons, analog inputs
-- Resources for sensors
 
 #### Assignment:
 
-- Sensor research?
 - Lab: Servo Control
+- Project
 
 ### Week 4: Data and Communication
 
