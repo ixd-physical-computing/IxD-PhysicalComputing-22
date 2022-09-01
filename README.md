@@ -1,5 +1,8 @@
-# Physical Computing, Fall 2022
-🕹 Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing
+<p align="center">
+  <img src="assets/physcomp-m.png" />
+</p>
+
+🕹 Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing, Fall 2022
 
 Thursdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
