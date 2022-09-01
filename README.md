@@ -1,16 +1,10 @@
-<<<<<<< HEAD
-
-# Physical Computing, Fall 2022
-
-# 🕹 Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing
-
 ![physcomp.png](assets/physcomp-m.png)
+
+🕹 Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing
 
 # IxD Physical Computing 🕹 Fall 2022
 
 Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing
-
-> > > > > > > 838ad21c03beaa08b313c000eb4dc43d1fff806d
 
 Thursdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
@@ -28,11 +22,11 @@ This course is a practical, hands-on exploration of physically interactive techn
 
 ### Class Notes:
 
-Welcome to physical computing! In this class we'll overview the course, discuss interactive systems, and introduce basic electronics terminologies and concepts.
+Welcome to physical computing! In this first session, we'll overview the course, discuss interactive systems, and introduce basic electronics terminologies and concepts:
 
 - What is physical interaction? Differences between inplicit and explicit interactions.
-- Examples of physical computing (Biggest hits)
-- Basic Electronics: Electricity, components, schematics, prototyping board, multimeter
+- Examples of physical computing projects (Biggest hits)
+- Electronics 101: Electricity, components, schematics, prototyping board, multimeter
 
 ### Assignment:
 
@@ -52,3 +46,57 @@ Welcome to physical computing! In this class we'll overview the course, discuss 
 - Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 
 ## Week 2: Microcontrollers
+
+### Class Notes:
+
+- Homework discussion: share your switch projects, and go over questions about electronics or anything that came up.
+- Microcontroller Definition, Arduino boards, programming environment
+- Introduction to programming loops and logics
+- In-class lab: Digital Input + Output
+
+### Assignment:
+
+- Lab: Digital Input + Output
+- Lab: Analog Input
+- Project: LED?
+
+## Week 3: Programming
+
+### Class Notes:
+
+- Homework discussion
+- A little more programming: Memory and variables, data types, binary and bytes
+- A little more interfacing: Switches beyound push buttons, analog inputs
+- Resources for sensors
+
+### Assignment:
+
+- Sensor research?
+- Lab: Servo Control
+
+## Week 4: Data and Communication
+
+### Class Notes:
+
+- Homework discussion
+- Serial Communication: Theory, protocols, handshaking, interfacing with different softwares
+- Managing Sensor Data: Graphing over time, smoothing techniques, amplification and cutoffs (OpAmps), filtering out unwanted data
+- We're also going over midterm project, due in Week 7
+
+### Assignment:
+
+- Lab: Serial Out
+- Lab: Asynchronous Serial Communication (to p5?)
+- Initial idea for Midterm project
+
+## Week 5: Project Preparation
+
+### Class Notes:
+
+- Homework discussion
+- Midterm project pitch
+- Project planning and documentation
+
+## Week 6: Midterm Project Development
+
+## Week 7: Midterm Crit!
