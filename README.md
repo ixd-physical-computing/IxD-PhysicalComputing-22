@@ -8,9 +8,9 @@ Thursdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
 ### Instructors
 
-Eric Forman (Office Hours): eforman1@sva.edu | [website](https://www.ericforman.com)
+Eric Forman (Office Hours): eforman1@sva.edu / [website](https://www.ericforman.com)
 
-Viola He (Office Hours): viola@nyu.edu | [website](https://violand.xyz)
+Viola He (Office Hours): viola@nyu.edu / [website](https://violand.xyz)
 
 ## Class Description
 
