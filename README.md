@@ -16,7 +16,9 @@ Viola He (Office Hours): viola@nyu.edu | [website](https://violand.xyz)
 
 This course is a practical, hands-on exploration of physically interactive technology for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Starting with the basics using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as complex output, including motors, video and intercommunication between objects. _Note: No previous programming or electronics experience is required._
 
-## Week 1: Introductions and Electronics
+## Schedule
+
+### ✨ Week 1: Introductions and Electronics
 
 Welcome to physical computing! In this first session, we'll overview the course, discuss interactive systems, and introduce basic electronics terminologies and concepts:
 
@@ -24,14 +26,14 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Examples of physical computing projects (Biggest hits)
 - Electronics 101: Electricity, components, schematics, prototyping board, multimeter
 
-### Assignment:
+#### Assignment:
 
 - Use [this form](https://forms.gle/cp9gk1ZpJuEViTJq9) to submit a link to your blog. You can use your personal blog, or create a new one to document school work if you wish. Make sure to create a category or tag for "Physical Computing" work, and assign it to all posts for this class.
 - Lab: [Practice with a multimeter](https://viololahe.github.io/SVA-IxD-PhysicalComputing-22/Week-1/Practice-with-a-multimeter.html)
 - Lab: [Wires and Breadboards](https://viololahe.github.io/SVA-IxD-PhysicalComputing-22/Week-1/Wires-and-Breadboards.html)
 - Project: [Home Made Switch](https://viololahe.github.io/SVA-IxD-PhysicalComputing-22/Week-1/Home-made-switch.html)
 
-### Read and Watch:
+#### Read and Watch:
 
 - Forest Mims, **Getting Started with Electronics**. A classic book, reading the whole thing highly recommended, for now read this short 13 page excerpt (missing link)
 - Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**. Out-dated in parts but still a great introduction to fundamentals.
@@ -41,50 +43,50 @@ Welcome to physical computing! In this first session, we'll overview the course,
     (ignore the serial connector on page 43, it's out-dated).
 - Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 
-## Week 2: Microcontrollers
+### ✨ Week 2: Microcontrollers
 
 - Homework discussion: share your switch projects, and go over questions about electronics or anything that came up.
 - Microcontroller Definition, Arduino boards, programming environment
 - Introduction to programming loops and logics
 - In-class lab: Digital Input + Output
 
-### Assignment:
+#### Assignment:
 
 - Lab: Digital Input + Output
 - Lab: Analog Input
 - Project: LED?
 
-## Week 3: Programming
+### Week 3: Programming
 
 - Homework discussion
 - A little more programming: Memory and variables, data types, binary and bytes
 - A little more interfacing: Switches beyound push buttons, analog inputs
 - Resources for sensors
 
-### Assignment:
+#### Assignment:
 
 - Sensor research?
 - Lab: Servo Control
 
-## Week 4: Data and Communication
+### Week 4: Data and Communication
 
 - Homework discussion
 - Serial Communication: Theory, protocols, handshaking, interfacing with different softwares
 - Managing Sensor Data: Graphing over time, smoothing techniques, amplification and cutoffs (OpAmps), filtering out unwanted data
 - We're also going over midterm project, due in Week 7
 
-### Assignment:
+#### Assignment:
 
 - Lab: Serial Out
 - Lab: Asynchronous Serial Communication (to p5?)
 - Initial idea for Midterm project
 
-## Week 5: Project Preparation
+### Week 5: Project Preparation
 
 - Homework discussion
 - Midterm project pitch
 - Project planning and documentation
 
-## Week 6: Midterm Project Development
+### Week 6: Midterm Project Development
 
-## Week 7: Midterm Crit!
+### Week 7: Midterm Crit!
