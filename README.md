@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="assets/physcomp-m.png" />
-</p>
+![physcomp.png](assets/physcomp-m.png)
 
-🕹 Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing, Fall 2022
+# IxD Physical Computing 🕹 Fall 2022 
+
+Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing
 
 Thursdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
@@ -16,7 +16,7 @@ Viola He (Office Hours): viola@nyu.edu / [website](https://violand.xyz)
 This course is a practical, hands-on exploration of physically interactive technology for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Starting with the basics using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as complex output, including motors, video and intercommunication between objects. *Note: No previous programming or electronics experience is required.*
 
 
-## Week 1: Introductions and Electronics
+##  Week 1: Introductions and Electronics
 
 ### Class Notes:
 Welcome to physical computing! In this class we'll overview the course, discuss interactive systems, and introduce basic electronics terminologies and concepts.
