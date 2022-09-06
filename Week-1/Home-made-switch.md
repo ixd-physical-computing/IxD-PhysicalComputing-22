@@ -12,7 +12,7 @@ Write a blog post about your process and final result. Write down any questions 
 
 A small kit of starter materials will be distributed by Class TA. **YOUR OWN COMPLETE KIT OF PARTS** coming soon. You will need to pay the department for this, Steven will send details soon (personal check or money order, ask your TA if you need help). 
 
-NOTE: DELIVERY DAY NOT CONFIRMED YET, UPDATES WILL BE SENT ON SLACK
+❗️DELIVERY DAY NOT CONFIRMED YET, UPDATES WILL BE SENT ON SLACK
 
 Meanwhile, you can also find wires of various colors, resistors, and LEDs in the VFL supply closet. You can get 9V battery connectors, more LEDs, electrical tape, and lots of other stuff locally at Tinkersphere, Radioshack and other stores on the [Resource](https://hellocircuits.com/resources/) page - go and poke around. If you're ordering parts online, remember to make time for shipping.
 
@@ -37,18 +37,14 @@ Eample: [LED circuit with 9V battery](https://hellocircuits.com/2013/01/19/simpl
 
 - Note that it calls for a 350-470 ohm resistor, but a 220 ohm resistor with one LED will work (just will reduce its life a bit). 1k (1000) ohm resistor will work too although LED will be a bit dim.  You can use a 3V coin battery if you want something small, with it you can get away with no resistor at all.
 
-Practice Ohm's Law on your own, verify with this [calculator](http://ledcalculator.net/). 
+Practice Ohm's Law on your own, verify with this [calculator](http://ledcalculator.net/). NOTE: this shows the next highest common resistor value, not the exact calculation. 
+
 
 - Power Supply Voltage: your battery source (3V for a coin cell, 6V for two coin cells, 9V for a 9V battery, etc.)
-
-  LED Voltage Drop: varies by color, click the "?" button to see numbers (doesn't need to be exact!)
-  
-  LED Current Rating: 20mA (average for most LEDs)
-
-  Number of LEDs: up to you! (If your battery can handle it)
-
-  Click the Design Circuit button first for wiring diagram, then select Schematic and click Design again (just to see what it looks like)
-- NOTE: this shows the next highest common resistor value, not the exact calculation. 
+- LED Voltage Drop: varies by color, click the "?" button to see numbers (doesn't need to be exact!)
+- LED Current Rating: 20mA (average for most LEDs)
+- Number of LEDs: up to you! (If your battery can handle it)
+- Click the Design Circuit button first for wiring diagram, then select Schematic and click Design again (just to see what it looks like)
 
  
 Here's a more in depth explanation of [using Ohm's Law with multiple LEDs](https://ericjformanteaching.wordpress.com/2017/09/15/ohms-law-and-seriesparallel/)
