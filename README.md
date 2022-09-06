@@ -20,7 +20,7 @@ This course is a practical, hands-on exploration of physically interactive techn
 
 Grading will be based primarily on effort and quality of assigned work (60%), research and practice outside of class (20%), and involvement in discussions and critiques (20%).
 
-Participation in group discussions and collaborative assignments during workshop sections are an important part of the course, any unexcused absences will affect your grade. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructors advanced notice.
+Participation in group discussions and collaborative assignments during workshop sections are an important part of the course, any unexcused absences will affect your grade. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructors at least 24 hours of advanced notice.
 
 ## Required Materials
 
@@ -139,7 +139,7 @@ Academic dishonesty, including plagiarism, will not be tolerated. Students found
 
 ### Students with Disabilities
 
-SVA is committed to providing students with access to their academic programs and courses. If you are a student with a disability and require accommodations, you must register with Disability Resources by visiting sva.edu/disabilityresources and completing an online accommodation request. To be eligible for accommodations in this course, students must provide the instructor with a letter of accommodation from Disability Resources. For questions or assistance, please call Disability Resources at 212-592-2396, or visit the office: 340 East 24th Street, New York, NY 10010, or email disabilityservices@sva.edu
+SVA is committed to providing students with access to their academic programs and courses. If you are a student with a disability and require accommodations, you must register with Disability Resources by visiting https://sva.edu/disabilityresources and completing an online accommodation request. To be eligible for accommodations in this course, students must provide the instructor with a letter of accommodation from Disability Resources. For questions or assistance, please call Disability Resources at 212-592-2396, or visit the office: 340 East 24th Street, New York, NY 10010, or email disabilityservices@sva.edu
 
 ### SVA Attendance Policy
 
