@@ -70,7 +70,7 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Use [this form](https://forms.gle/cp9gk1ZpJuEViTJq9) to submit a link to your blog. You can use your personal blog, or create a new one to document school work if you wish. Make sure to create a category or tag for "Physical Computing" work, and assign it to all posts for this class.
 - Lab: [Practice with a multimeter](Week-1/Practice-with-a-multimeter.html)
 - Lab: [Wires and Breadboards](Week-1/Wires-and-Breadboards.html)
-- Project: [Home Made Switch](Week-1/Home-made-switch.html)
+- Project: [Homemade Switch](Week-1/Home-made-switch.html)
 
 #### Read and Watch:
 
