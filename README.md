@@ -110,7 +110,7 @@ Welcome to physical computing! In this first session, we'll overview the course,
 
 - Homework discussion
 - Serial Communication: Theory, protocols, handshaking, interfacing with different softwares
-- Managing Sensor Data: Graphing over time, smoothing techniques, amplification and cutoffs (OpAmps), filtering out unwanted data
+- Managing Sensor Data: Graphing over time, smoothing techniques, filtering out unwanted data
 - We're also going over midterm project, due in Week 7
 
 #### Assignment:
