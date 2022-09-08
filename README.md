@@ -85,7 +85,7 @@ Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcM
 
 Weekly schedule will be updated [here](schedule.html)
 
-<br> </br>
+<br>
 
 ## Policies
 
