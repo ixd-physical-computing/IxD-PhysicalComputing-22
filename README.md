@@ -16,17 +16,23 @@ Viola He (Office Hours): viola@nyu.edu / [website](https://violand.xyz)
 
 This course is a practical, hands-on exploration of physically interactive technology for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Starting with the basics using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as complex output, including motors, video and intercommunication between objects. _Note: No previous programming or electronics experience is required._
 
+## Class Expectation
+
+**Attendance**: Participation in group discussions and collaborative assignments during workshop sections are an important part of the course, any unexcused absences will affect your grade. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructors at least 24 hours of advanced notice.
+
+**Assignments**: Each week you're expected to review and practice materials in lab assignments, complete project assignments, and document your progress and questions in your Physical Computing blog. Blog posts are due 23:59, Wednesday before each class. There will be two group projects for midterm and final, which you will show on Week 7 and Week 14.
+
 ## Evaluation Criteria
 
 Grading will be based primarily on effort and quality of assigned work (60%), research and practice outside of class (20%), and involvement in discussions and critiques (20%).
-
-Participation in group discussions and collaborative assignments during workshop sections are an important part of the course, any unexcused absences will affect your grade. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructors at least 24 hours of advanced notice.
 
 ## Required Materials
 
 All needed materials will be provided in a Student Kit, that will be billed as a Course Materials Fee. Students have the option of buying additional materials to fulfill their project objectives. Tools and consumable supplies will be available in the VFL and in IxD's studio.
 
-### Readings
+Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
+
+### Recommended Readings
 
 **Technical - selections from:**
 
@@ -65,6 +71,8 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Examples of physical computing projects (Biggest hits)
 - Electronics 101: Electricity, components, schematics, prototyping board, multimeter
 
+Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA19QoI0xWsFofZ4sm6MMcQsdkTg/edit?usp=sharing)
+
 #### Assignment:
 
 - Use [this form](https://forms.gle/cp9gk1ZpJuEViTJq9) to submit a link to your blog. You can use your personal blog, or create a new one to document school work if you wish. Make sure to create a category or tag for "Physical Computing" work, and assign it to all posts for this class.
@@ -74,12 +82,12 @@ Welcome to physical computing! In this first session, we'll overview the course,
 
 #### Read and Watch:
 
-- Forest Mims, **Getting Started with Electronics**. A classic book, reading the whole thing highly recommended, for now read this short 13 page excerpt (missing link)
-- Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**. Out-dated in parts but still a great introduction to fundamentals.
-  - Introduction (missing link)
-  - Ch 1 Electricity (missing link)
-  - Ch 3 Building Circuits (missing link)
-    (ignore the serial connector on page 43, it's out-dated).
+- Forest Mims, **Getting Started with Electronics** 13-page excerpt, though highly recommend reading the whole book.
+- Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**. Out-dated in parts but still a great introduction to fundamentals. Read the following chapters:
+  - Introduction
+  - Ch 1 Electricity
+  - Ch 3 Building Circuits
+    (ignore the serial connector part on page 43).
 - Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 
 ### ✨ Week 2: Microcontrollers
