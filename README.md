@@ -6,33 +6,43 @@ Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of P
 
 Thursdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
-### Instructors
+<br> </br>
+## Instructors
 
 Eric Forman (Office Hours Tuesdays and Thursdays 10:30am-1pm, 5pm-6pm; Fridays remote 11am-6pm): eforman1@sva.edu / [website](https://www.ericforman.com)
 
 Viola He (Office Hours): viola@nyu.edu / [website](https://violand.xyz)
 
+<br> </br>
 ## Class Description
 
 This course is a practical, hands-on exploration of physically interactive technology for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Starting with the basics using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as complex output, including motors, video and intercommunication between objects. _Note: No previous programming or electronics experience is required._
 
+<br> </br>
 ## Class Expectation
 
 **Attendance**: Participation in group discussions and collaborative assignments during workshop sections are an important part of the course, any unexcused absences will affect your grade. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructors at least 24 hours of advanced notice.
 
 **Assignments**: Each week you're expected to review and practice materials in lab assignments, complete project assignments, and document your progress and questions in your Physical Computing blog. Blog posts are due 23:59, Wednesday before each class. There will be two group projects for midterm and final, which you will show on Week 7 and Week 14.
 
+<br> </br>
 ## Evaluation Criteria
 
 Grading will be based primarily on effort and quality of assigned work (60%), research and practice outside of class (20%), and involvement in discussions and critiques (20%).
 
+<br> </br>
 ## Required Materials
 
 All needed materials will be provided in a Student Kit, that will be billed as a Course Materials Fee. Students have the option of buying additional materials to fulfill their project objectives. Tools and consumable supplies will be available in the VFL and in IxD's studio.
 
 Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
 
-### Recommended Readings
+<br> </br>
+## Recommended Readings
+
+**CLASS BLOG with resources and examples: www.hellocircuits.com**
+<br> </br>
+
 
 **Technical - selections from:**
 
@@ -61,6 +71,7 @@ Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcM
 - Chris Crawford, The Art of Interactive Design (2002)
 - Tor Nørretranders, The User Illusion: Cutting Consciousness Down To Size (1998)
 
+<br> </br>
 ## Schedule
 
 ### ✨ Week 1: Introductions and Electronics
@@ -137,7 +148,9 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 
 ### Week 7: Midterm Crit!
 
---- syllabus being updated ---
+--- syllabus will be updated as the semester unfolds... ---
+
+<br> </br>
 
 ## Policies
 
