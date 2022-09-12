@@ -24,6 +24,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 #### Read and Watch:
 
 - Forest Mims, **Getting Started with Electronics** 13-page excerpt, though highly recommend reading the whole book.
+  - Pages 6, 7, 13, 14, 15, 16, 17, 20, 21, 28, 29, 30, 31
 - Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**. Out-dated in parts but still a great introduction to fundamentals. Read the following chapters:
   - Introduction
   - Ch 1 Electricity
