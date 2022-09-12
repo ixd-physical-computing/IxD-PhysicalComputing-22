@@ -50,7 +50,7 @@ Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcM
 
 ## Recommended Readings
 
-**CLASS SITE with resources and examples: www.hellocircuits.com**
+**CLASS SITE with resources and examples: [www.hellocircuits.com](www.hellocircuits.com)**
 
 <br>
 
