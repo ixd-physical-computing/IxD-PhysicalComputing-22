@@ -46,6 +46,8 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 - Lab: Analog Input
 - Project
 
+...
+
 ### Week 3: Programming
 
 - Homework discussion
@@ -56,6 +58,8 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 
 - Lab: Servo Control
 - Project
+
+...
 
 ### Week 4: Data and Communication
 
@@ -70,14 +74,22 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 - Lab: Asynchronous Serial Communication (to p5?)
 - Initial idea for Midterm project
 
+...
+
 ### Week 5: Project Preparation
 
 - Homework discussion
 - Midterm project pitch
 - Project planning and documentation
 
+...
+
 ### Week 6: Midterm Project Development
 
+...
+
 ### Week 7: Midterm Crit!
+
+...
 
 --- syllabus will be updated as the semester unfolds... ---
