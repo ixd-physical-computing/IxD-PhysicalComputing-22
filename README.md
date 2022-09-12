@@ -44,11 +44,11 @@ Grading will be based primarily on effort and quality of assigned work (60%), re
 
 All needed materials will be provided in a Student Kit, that will be billed as a Course Materials Fee. Students have the option of buying additional materials to fulfill their project objectives. Tools and consumable supplies will be available in the VFL and in IxD's studio.
 
-Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
-
 <br>
 
 ## Recommended Readings
+
+Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
 
 **CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com)**
 
