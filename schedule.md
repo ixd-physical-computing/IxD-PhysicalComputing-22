@@ -1,6 +1,10 @@
 ## Class Schedule
 
-### ✨ Week 1: Introductions and Electronics
+### Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
+
+...
+
+### ✨ Week 1: Introductions and Electronics (due 9/15)
 
 Welcome to physical computing! In this first session, we'll overview the course, discuss interactive systems, and introduce basic electronics terminologies and concepts:
 
@@ -27,7 +31,9 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
     (ignore the serial connector part on page 43).
 - Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 
-### ✨ Week 2: Microcontrollers
+...
+
+### ✨ Week 2: Microcontrollers (due 9/22)
 
 - Homework discussion: share your switch projects, and go over questions about electronics or anything that came up.
 - Microcontroller Definition, Arduino boards, programming environment
