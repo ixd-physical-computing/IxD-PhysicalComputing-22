@@ -48,9 +48,9 @@ All needed materials will be provided in a Student Kit, that will be billed as a
 
 ## Recommended Readings
 
-Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
+**Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).**
 
-**CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com)**
+**CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com).**
 
 <br>
 
