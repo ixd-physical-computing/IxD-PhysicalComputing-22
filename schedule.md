@@ -1,7 +1,6 @@
 ## Class Schedule
 
 ### Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
-
 ### CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com).
 
 ...
@@ -25,7 +24,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 
 #### Read and Watch:
 
-- Forest Mims, **Getting Started with Electronics** 13-page excerpt, though highly recommend reading the whole book.
+- Forest Mims, **Getting Started with Electronics**. 13-page excerpt, though highly recommend reading the whole book.
   - Pages 6, 7, 13, 14, 15, 16, 17, 20, 21, 28, 29, 30, 31
 - Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**. Out-dated in parts but still a great introduction to fundamentals. Read the following chapters:
   - Introduction
@@ -39,15 +38,25 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 ### ✨ Week 2: Microcontrollers (due 9/22)
 
 - Homework discussion: share your switch projects, and go over questions about electronics or anything that came up.
-- Microcontroller Definition, Arduino boards, programming environment
-- Introduction to programming loops and logics
+- Switches: tangible and intangible
+- Microcontroller boards, programming environment, programming loops and logics
 - In-class lab: Digital Input + Output
+
+Lecture slides [here](https://docs.google.com/presentation/d/1qjM1ZCWfOvU7s9u7IPR_hCbj2E3cmpDB40TPoyh8mAg/edit?usp=sharing)
+
 
 #### Assignment:
 
-- Lab: Digital Input + Output
-- Lab: Analog Input
-- Project
+- Lab: [Arduino basics](Week-2/Arduino-basics.html)
+- Lab: [Variable resistor sensors](Week-2/Variable-resistor-sensors.html)
+- Project: Something Analog
+
+#### Read and Watch:
+
+- Brian W. Evans, **Arduino Programming Notebook v6**. Page 7-12: structure, variables, datatype
+- Optional - Charles Platt, **Make: Electronics**
+  - Introduction & Chapter 1: Experiencing Electricity
+
 
 ...
 
