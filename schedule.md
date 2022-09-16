@@ -1,7 +1,10 @@
 ## Class Schedule
 
-### Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
-### CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com).
+Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
+
+CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com).
+
+Student blog [links](blog-links.html)
 
 ...
 
@@ -44,19 +47,18 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 
 Lecture slides [here](https://docs.google.com/presentation/d/1qjM1ZCWfOvU7s9u7IPR_hCbj2E3cmpDB40TPoyh8mAg/edit?usp=sharing)
 
-
 #### Assignment:
 
 - Lab: [Arduino basics](Week-2/Arduino-basics.html)
 - Lab: [Variable resistor sensors](Week-2/Variable-resistor-sensors.html)
-- Project: Something Analog
+- Project: [Something Arduino](Week-2/Something-arduino.html)
+- Remember to blog about your labs and projects, any questions, findings and more.
 
 #### Read and Watch:
 
 - Brian W. Evans, **Arduino Programming Notebook v6**. Page 7-12: structure, variables, datatype
 - Optional - Charles Platt, **Make: Electronics**
   - Introduction & Chapter 1: Experiencing Electricity
-
 
 ...
 
