@@ -36,7 +36,7 @@ Optional: If you really want to understand the theory behind voltage dividers, r
 https://learn.sparkfun.com/tutorials/voltage-dividers 
 http://electronicsclub.info/vdivider.htm
 
-### Lab Activity
+### Lab Exercise
 
 Note: Do this if your kit arrived by Tuesday! 
 
