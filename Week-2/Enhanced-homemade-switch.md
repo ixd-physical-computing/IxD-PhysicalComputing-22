@@ -4,7 +4,7 @@ Remember to draw a schematic of your circuit. Refer to the [Resources](https://h
 
 Some ideas on what you can add to the project:
 
-- Try using some analog (i.e. varying) input to affect the LEDs! For example, incorporate something besides an on/off switch - rotation, bending, sliding. Or try to combine a switch with an analog input. Invent a reason to take advantage of a non-binary input. Or try reimagining something you see in the world around you, but with a richer input than a button or switch. 
+- Try using some analog inputs to affect the LEDs! For example, incorporate interactions besides tapping on and off - rotation, bending, sliding. Or try to combine a switch with an additional analog input. Invent a reason to take advantage of a non-binary input, or try reimagining something you see in the world around you, but with a richer input than a button or switch. 
 - Adding an Arduino in between your switch and the LED output. You can animate the LEDs, map the analog input, create multiple switch combinations. If you need help, ask us or your programming teachers, and post on both class Slack channels. 
 - And of course you can certainly do both!
 
