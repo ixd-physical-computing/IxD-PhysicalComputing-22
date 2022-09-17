@@ -8,7 +8,7 @@ Go over this week's [lecture slides](https://docs.google.com/presentation/d/1qjM
 
 3. Sparkfun Inventor's Kit printed book, intro (page 4-9)
 
-Next, using the Sparkfun Inventor's Kit printed book, and complete the following labs. Note that all of their project code can be downloaded from [here](https://www.sparkfun.com/SIKcode). Clicking on each link there's also a digital version of each exercise, including the code used.
+Next, using the Sparkfun Inventor's Kit printed book, and complete the following exercises. Note that all of their project code can be downloaded from [here](https://www.sparkfun.com/SIKcode). Clicking on each link there's also a digital version of each exercise, including the code used.
 
 1. Circuit 1A, [Blink an LED](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-1a-blink-an-led) (page 13-19). 
   
