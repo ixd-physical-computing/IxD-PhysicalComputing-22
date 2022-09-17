@@ -29,12 +29,9 @@ Read the Sparkfun guide on [using a photocell](https://learn.sparkfun.com/tutori
 
 There are many other sensors that use a variably resistive material. In the photo, a stretch sensor (top), and a pressure sensor/FSR (bottom) is made of conductive rubber, which changes resistence when it's being stretched or pressed. A flex sensor (middle) can be made of many different materials, and is used to measures the amount of deflection or bending.
 
-When your completely kit arrive, you'll have a pressure sensor and a flex sensor at hand. Read the Sparkfun tutorials if you're interested in using them: [pressure sensor](https://learn.sparkfun.com/tutorials/force-sensitive-resistor-hookup-guide), [flex sensor](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide)
+When your complete kit arrive, you'll have a pressure sensor and a flex sensor at hand. Read the Sparkfun tutorials if you're interested in using them: [pressure sensor](https://learn.sparkfun.com/tutorials/force-sensitive-resistor-hookup-guide), [flex sensor](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide)
 
-Optional: If you really want to understand the theory behind voltage dividers, read the following links. Don't worry if this is too technical for you, what's important is knowing how to use it to help you make what you want to make.
-
-https://learn.sparkfun.com/tutorials/voltage-dividers 
-http://electronicsclub.info/vdivider.htm
+Optional: If you really want to understand the theory behind voltage dividers, read the [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/voltage-dividers). Don't worry if this is too technical for you, what's important is knowing how to use it to help you make what you want to make.
 
 ### Lab Exercise
 
