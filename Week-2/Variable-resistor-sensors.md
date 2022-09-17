@@ -31,7 +31,12 @@ There are many other sensors that use a variably resistive material. In the phot
 
 When your complete kit arrive, you'll have a pressure sensor and a flex sensor at hand. Read the Sparkfun tutorials if you're interested in using them: [pressure sensor](https://learn.sparkfun.com/tutorials/force-sensitive-resistor-hookup-guide), [flex sensor](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide)
 
+You can even make your own sensor at home! [This tutorial](https://www.instructables.com/How-to-Make-FLEX-Sensor-at-Home-DIY-Flex-Sensor/) shows how to make a flex sensor with cardboard and tin foil. If you're interested in DIY varying resistor sensors, espeically soft electronics / wearables, [How to Get What You Want](https://www.kobakant.at/DIY/) is a great website for related resources.
+
+
+
 Optional: If you really want to understand the theory behind voltage dividers, read the [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/voltage-dividers). Don't worry if this is too technical for you, what's important is knowing how to use it to help you make what you want to make.
+
 
 ### Lab Exercise
 
