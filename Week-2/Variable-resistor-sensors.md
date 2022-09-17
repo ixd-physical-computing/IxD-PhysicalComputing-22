@@ -52,6 +52,10 @@ Tips:
  
 Next, turn the power on and see how the LED brightness varies as you manipulate the sensor. Note how the dimmest and brightest behavior is different for each sensor because its resistance is different. Some go from 0 - 10,000 ohms. Some go from 300 - 30,000 ohms. Other factors such as ambient brightness with a photocell will also effect the resistance differently if you move the circuit to a different room.
 
+Example Circuit with Pressure Sensor:
+![different potentiometers](assets/fsr-circuit.png)
+![potentiometer inside](assets/fsr-schematic.png)
+
 Blog about your findings and questions!
 
 
