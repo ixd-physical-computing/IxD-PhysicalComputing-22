@@ -51,7 +51,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1qjM1ZCWfOvU7s9u7IP
 
 - Lab: [Arduino basics](Week-2/Arduino-basics.html)
 - Lab: [Variable resistor sensors](Week-2/Variable-resistor-sensors.html)
-- Project: [Enhanced homemade switch](Week-2/Something-arduino.html)
+- Project: [Enhanced homemade switch](Week-2/Enhanced-homemade-switch.html)
 - Remember to blog about your labs and projects, any questions, findings and more.
 
 #### Read and Watch:
