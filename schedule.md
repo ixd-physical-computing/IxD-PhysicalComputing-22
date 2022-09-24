@@ -75,7 +75,6 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 
 - Lab: [Tone Output](Week-3/Tone-output.html)
 - Lab: [Servo Control](Week-3/Servo-control.html)
-- Lab: Connection and Soldering
 - Project: [Sound or movement](Week-3/Sound-or-movement.html)
 
 #### Read and Watch:
