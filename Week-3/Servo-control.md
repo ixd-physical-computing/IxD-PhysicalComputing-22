@@ -1,4 +1,4 @@
-Servo Motor Control
+### Servo Motor Control
 
 Servo motors are the easiest output device to make motion with a microcontroller. Most common servo motors (like the one that comes in your kit) can turn 180 degrees, providing huge range of motion that can allow for different types of movements with the help of different [physical mechanisms](https://www.robives.com/mechanism/). Read more about servos using this [Sparkfun guide](https://www.sparkfun.com/servos). Next, follow [this example](https://learn.sparkfun.com/tutorials/hobby-servo-tutorial?_ga=2.57713834.1061003023.1664014266-305460748.1661811385#controlling-a-servo-with-arduino) to hook up a servo, and drive it, from an Arduino board.
 
