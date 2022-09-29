@@ -84,30 +84,45 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 
 ...
 
-### Week 4: Data and Communication
+### ✨ Week 4: Data Management
 
-- Homework discussion
-- Serial Communication: Theory, protocols, handshaking, interfacing with different softwares
+- Homework discussion!
+- Review basic concepts, answer questions.
 - Managing Sensor Data: Graphing over time, smoothing techniques, filtering out unwanted data
+- Soldering demonstration
 - We're also going over midterm project, due in Week 7
+
+#### Assignment:
+
+- Lab: Debouncing
+- Lab: Environmental sensing
+- Research: Sensor and Project Research
+- Midterm Project Initial Proposal
+
+#### Read and Watch:
+
+- Introduction to Serial Communication
+
+...
+
+### Week 5: Serial Communication
+
+- Midterm Project Proposal
+- Serial Communication: Theory, protocols, handshaking, interfacing with different softwares
+- Project planning and documentation
 
 #### Assignment:
 
 - Lab: Serial Out
 - Lab: Asynchronous Serial Communication
-- Initial idea for Midterm project
-
-...
-
-### Week 5: Project Preparation
-
-- Homework discussion
-- Midterm project pitch
-- Project planning and documentation
+- Plan and work on Midterm project
 
 ...
 
 ### Week 6: Midterm Project Development
+
+- Midterm Project Check-in
+- Work on Midterm project
 
 ...
 
