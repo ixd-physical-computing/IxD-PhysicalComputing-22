@@ -94,8 +94,8 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 
 #### Assignment:
 
-- Lab: Debouncing
-- Lab: Environmental sensing
+- Lab: Debouncing and Smoothing
+- Lab: Commonly Asked Questions
 - Research: Sensor and Project Research
 - Midterm Project Initial Proposal
 
