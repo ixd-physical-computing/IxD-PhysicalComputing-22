@@ -94,9 +94,9 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 
 #### Assignment:
 
-- Lab: Debouncing and Smoothing
+- Lab: [Debouncing and Smoothing](Week-4/Debouncing-smoothing.html)
 - Lab: Commonly Asked Questions
-- Research: Sensor and Project Research
+- Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
 - Midterm Project Initial Proposal
 
 #### Read and Watch:
