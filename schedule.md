@@ -92,16 +92,17 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 - Soldering demonstration
 - We're also going over midterm project, due in Week 7
 
+Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit?usp=sharing)
+
 #### Assignment:
 
 - Lab: [Debouncing and Smoothing](Week-4/Debouncing-smoothing.html)
-- Lab: Commonly Asked Questions
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
-- Midterm Project Initial Proposal
+- Midterm Project Brainstorming
 
 #### Read and Watch:
 
-- Introduction to Serial Communication
+- [Introduction to Serial Communication](Week-4/Intro-to-serial.html)
 
 ...
 
