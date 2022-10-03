@@ -1,6 +1,6 @@
 ## Midterm Project
 
-Work in pairs or groups of three, make a midterm project to demonstrate that you can design and create an interactive system with physical computing. If you have a request for a group, let the TA know. Otherwise, they will be randomly assigned. This project will be due on week 7, October 20th.
+Work in pairs or groups of three, make a midterm project to demonstrate that you can design and create an interactive system with physical computing. If you have a request for a group, let the TA know. Otherwise, they will be randomly assigned. This project will be due on week 8, October 27th.
 
 This year, your midterm project can have a Halloween theme. You can make a music box that plays sound for a horror scene, a physical interface that controls a ghost buster game, or a witch hat that moves when you scream. We will have a Halloween party on the IxD floor during which you can show off your projects. It'll be a great opportunity to present your work to your peers, staffs, and second year friends.
 
@@ -18,7 +18,7 @@ Develop your project idea with step-by-step prototyping in mind.
 
 Use the [Sensor Research Assignment](Week-4/Sensor-project-research.html) as a starting poiont to look into sensors we haven't used for labs yet. Search [Sparkfun](www.sparkfun.com), [Adafruit](www.adafruit.com), [Modern device](www.moderndevice.com), and [Micro Center](https://www.microcenter.com/search/search_results.aspx?N=&cat=&Ntt=arduino+sensors&searchButton=search) (the only place listed that has a physical store), among others, for sensors you can buy that are known to be able to interface with Arduinos. Also search on [Arduino forums](http://forum.arduino.cc) and [Sparkfun forums](https://forum.sparkfun.com) for others asking about the same things you are wondering about. Experimentation with new sensors is encouraged, but it's okay to use ones that are easier to interface with, such as rotation, pressure, bending, light, temperature, distance, or sound volume.
 
-### Due in Week 6
+### Midterm Pitch, Due in Week 6
 
 Together with your group, write about the following in your blogs:
 

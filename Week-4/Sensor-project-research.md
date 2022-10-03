@@ -20,3 +20,5 @@ For extra credit, if you want to, get one from us and play around with it.
 Find a piece of media art you like and write about it in your blog. Pick something with a physical interface or sensing system of some kind (i.e. not solely screen based). Include a summary with images and/or video, describe the viewer/user experience, and as much as you can figure out about how it's made.
 
 If you need inspiration on what to write about, look through posts on [Hello Circuit](https://hellocircuits.com/resources/#otherwork), or find any other project you feel would be a good subject for Physical Computing.
+
+Blog about both research promps, and prepare a 5 mins presentation to the class next week.
