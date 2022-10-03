@@ -98,7 +98,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 
 - Lab: [Debouncing and Smoothing](Week-4/Debouncing-smoothing.html)
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
-- Midterm Project Brainstorming
+- [Midterm Project](Projects/midterm.html) Brainstorming
 
 #### Read and Watch:
 
