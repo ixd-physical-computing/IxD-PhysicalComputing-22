@@ -11,7 +11,7 @@ You can click into links of the sensors for information, data sheets, and someti
 - What are current and potential use of the sensor?
 - If you were to build a project with this sensor, what would it be?
 
-Here's a good sensor research [example](https://itp.nyu.edu/classes/tangible-interaction/2018/02/20/softpot/), Softpot by Lauren Race.
+Here's a good sensor research [example](https://drive.google.com/file/d/15ODyvPvf9VYKt-M35mchtWn3AfzU6igV/view?usp=sharing), Softpot by Lauren Race. And a more advanced sensor [example](https://dav1dyang.notion.site/Sensor-Research-a0a070f94e0246cea242ffc27e83cb6a), RFID Sensor by David Yang.
 
 For extra credit, if you want to, get one from us and play around with it.
 
