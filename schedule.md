@@ -106,28 +106,28 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 
 ...
 
-### Week 5: Serial Communication
+### ✨ Week 5: Serial Communication
 
-- Midterm Project Proposal
-- Serial Communication: Theory, protocols, handshaking, interfacing with different softwares
-- Project planning and documentation
+- Sensor and Project Research Presentation
+- Serial Communication: Theory, protocols, data encoding
+- [Serial Output Lab with p5.js](Week-5/Serial-p5.html)
+- Serial interfacing with different softwares
 
 #### Assignment:
 
-- Lab: Serial Out
-- Lab: Asynchronous Serial Communication
-- Plan and work on Midterm project
+- Lab: Duplex Serial Communication
+- Midterm Project Proposal
 
 ...
 
-### Week 6: Midterm Project Development
+### ✨ Week 6: Midterm Project
 
-- Midterm Project Check-in
-- Work on Midterm project
+- Midterm Project Proposal
+- Project planning and documentation
 
 ...
 
-### Week 7: Midterm Crit!
+### Week 8: Midterm Crit!
 
 ...
 
