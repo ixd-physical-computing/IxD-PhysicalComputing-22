@@ -118,7 +118,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 #### Assignment:
 
 - Lab: [p5.js Lab](Week-5/p5js-lab.html)
-- Lab: Serial Output Lab
+- Lab: [Serial Output Lab](Week-5/serial-output-lab.html)
 - Midterm Project Proposal
 
 ...

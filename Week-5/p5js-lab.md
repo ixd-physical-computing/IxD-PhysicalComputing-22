@@ -12,6 +12,8 @@ Then, there are a couple of good resources to follow:
 
 - Optional: p5 has some really cool built-in tools for easy interactivity. Follow [this text tutorial](https://creative-coding.decontextualize.com/interaction/) by Allison Parrish if you're interested to explore using logic and boolean (things we covered for Arduino programming) with mouse interaction.
 
-- Lastly, poke through the p5.js [Reference page](https://p5js.org/reference/) and [Examples page](https://p5js.org/examples/) for examples of things that interest you. For example, there's a whole reference page dedicated to [color](https://p5js.org/reference/#/p5/color) in p5.js
+- Lastly, poke through the p5.js [Reference page](https://p5js.org/reference/) and [Examples page](https://p5js.org/examples/) for examples of things that interest you. For starters, there's a whole reference page dedicated to [`color()`](https://p5js.org/reference/#/p5/color), and another dedicatde to [`text()`](https://p5js.org/reference/#/p5/text)
 
-After finishing the tutorals, make a simple sketch that uses the shapes, lines, and colors, share that on your blog.
+### Assignment
+
+After finishing the tutorials, make a simple sketch that uses shapes, lines, and colors, share that on your blog. It can be a design, a self potrait, or just a composition that interests you. You can also alter the existing examples that were shared above.
