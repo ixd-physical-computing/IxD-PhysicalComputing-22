@@ -113,13 +113,13 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 - [Serial Output Lab with p5.js](Week-5/Serial-p5.html)
 - Serial interfacing with different softwares
 
-Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit?usp=sharing)
+Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_396)
 
 #### Assignment:
 
 - Lab: [p5.js Lab](Week-5/p5js-lab.html)
-- Lab: [Serial Output Lab](Week-5/serial-output-lab.html)
-- Midterm Project Proposal
+- Lab: [Serial Output Lab](Week-5/Serial-output-lab.html)
+- [Midterm Project](Projects/midterm.html) Proposal
 
 ...
 
