@@ -113,9 +113,12 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 - [Serial Output Lab with p5.js](Week-5/Serial-p5.html)
 - Serial interfacing with different softwares
 
+Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit?usp=sharing)
+
 #### Assignment:
 
-- Lab: Duplex Serial Communication
+- Lab: [p5.js Lab](Week-5/p5js-lab.html)
+- Lab: Serial Output Lab
 - Midterm Project Proposal
 
 ...
