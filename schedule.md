@@ -123,12 +123,21 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 
 ...
 
-### ✨ Week 6: Midterm Project
+### Week 6: Serial Communication, part II
 
 - Midterm Project Proposal
 - Project planning and documentation
+- Serial Communication Lab II
 
 ...
+
+#### Assignment:
+
+- Review: Serial Communication with p5.js
+- Work on [Midterm Project](Projects/midterm.html)
+
+### Week 7: Midterm Project Lab
+
 
 ### Week 8: Midterm Crit!
 
