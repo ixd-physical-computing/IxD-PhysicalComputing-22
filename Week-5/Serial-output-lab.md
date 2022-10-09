@@ -2,13 +2,15 @@
 
 This week we covered Serial Communication - It's a lot of information to chew on, we'll resume next week to clarify and do more. Review the [week 5 lecture slides](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_0), and note any question you have.
 
-In class we did the Async Serial Output Lab I (pp. 11 - 21). We've added in more instructional materials, review the lab, and move on to try the Async Serial Output Lab II (pp. 22 - 30), where you'd send two values from the Arduino. You can follow this guide:
+In class we did the Async Serial Output Lab I (pp. 11 - 21). We've added in more instructional materials in the slides. Review the lab, and move on to try the Async Serial Output Lab II (pp. 22 - 30), where you'd send two values from the Arduino. You can follow this guide:
 
 ### Async Serial Output Lab II
 
 **Arduino Side**
 
-Bill of materials: Redboard board x1, Breadboard x1, Pushbutton x1, Potentiometer (the small blue thing) x1, 10k resistor x1, jumper wires a couple
+Bill of materials:
+
+Redboard board x1, Breadboard x1, Pushbutton x1, Potentiometer (the small blue thing) x1, 10k resistor x1, jumper wires a couple
 
 ![schematic](schematic-bb.png)
 
@@ -43,9 +45,9 @@ Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial
 
 What's happening in the code? Let's break it down.
 
-First don't forget to make sure the p5.serialport script is added in the index.html file, under the `<head>` tag and below the other scripts p5.js' online editor uses. The line to add is:
+First, don't forget to make sure the p5.serialport script is added in the `index.html` file. The `>` right underneth the Play / Stop buttons expands into your root files. You should see three files: `index.html` is the "homepage" of your website, it's essential since p5 sketches are browser-based. `style.css` is the stylesheet that defines the look of your html page. `sketch.js` is the content within the html page, and is the main file where the p5.js code happens. You were only able to use it because there was a p5.js library `<script>`referenced in the `index.html` file -- and now to use Serial control, have to add another `<script>` that supports these functions here. So navigate to the `index.html` file, see that under the `<head>` tag and below the other scripts, I've added in:
 
-```js
+```html
 <script
   language="javascript"
   type="text/javascript"
@@ -53,7 +55,9 @@ First don't forget to make sure the p5.serialport script is added in the index.h
 ></script>
 ```
 
-Back to the p5.js file. We have a `setup()` function, in which we create a canvas 400px x 400px big.
+Now we're all set up for a p5.js sketch that can talk to other devides via Serial!
+
+Back to the `sketch.js` file. We have a `setup()` function, in which we call `createCanvas()` to create a canvas 400px x 400px big.
 
 ```js
 function setup() {
@@ -61,7 +65,7 @@ function setup() {
 }
 ```
 
-Adding in [callback functions](https://www.w3schools.com/js/js_callback.asp) related to serial setups, which will be executed later in the code. You don't have to worry about them for now,
+In `setup()` we also need to add in [callback functions](https://www.w3schools.com/js/js_callback.asp) related to serial setups, which will be executed later in the code. You don't have to worry about them for now.
 
 ```js
 function setup() {
