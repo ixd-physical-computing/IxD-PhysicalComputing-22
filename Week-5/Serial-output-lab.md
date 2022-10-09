@@ -6,11 +6,9 @@ In class we did the Async Serial Output Lab I (pp. 11 - 21). We've added in more
 
 ### Async Serial Output Lab II
 
-**Arduino Side**
+**Arduino**
 
-Bill of materials:
-
-Redboard board x1, Breadboard x1, Pushbutton x1, Potentiometer (the small blue thing) x1, 10k resistor x1, jumper wires a couple
+Bill of materials: Redboard board x1, Breadboard x1, Pushbutton x1, Potentiometer (the small blue thing) x1, 10k resistor x1, jumper wires a couple
 
 ![schematic](schematic-bb.png)
 
@@ -39,13 +37,19 @@ void loop() {
 }
 ```
 
-**p5.js Side**
+**Connection and p5.js**
 
 Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. Open the accompanying [p5 sketch](https://editor.p5js.org/sandpills/sketches/L2LESw-9E). Remeber to replace the line 2 `portName` variable with your own port.
 
 What's happening in the code? Let's break it down.
 
-First, don't forget to make sure the p5.serialport script is added in the `index.html` file. The `>` right underneth the Play / Stop buttons expands into your root files. You should see three files: `index.html` is the "homepage" of your website, it's essential since p5 sketches are browser-based. `style.css` is the stylesheet that defines the look of your html page. `sketch.js` is the content within the html page, and is the main file where the p5.js code happens. You were only able to use it because there was a p5.js library `<script>`referenced in the `index.html` file -- and now to use Serial control, have to add another `<script>` that supports these functions here. So navigate to the `index.html` file, see that under the `<head>` tag and below the other scripts, I've added in:
+The `>` right underneth the Play / Stop buttons expands into your root files. You should see three:
+
+- `index.html` is the "homepage" of your website, it's essential since p5 sketches are browser-based.
+- `style.css` is the stylesheet that defines the look of your html page.
+- `sketch.js` is the content within the html page, and is the main file where the p5 code happens.
+
+You were only able to use p5 functions because there was a p5.js library `<script>`referenced in the `index.html` file -- and now to use Serial control, we'd also have to add a p5.serialport `<script>` that supports these functions. So navigate to the `index.html` file, and see that under the `<head>` tag and below the other scripts, I've added in:
 
 ```html
 <script
