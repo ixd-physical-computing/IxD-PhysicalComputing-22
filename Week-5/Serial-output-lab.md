@@ -39,7 +39,9 @@ void loop() {
 
 **Connection and p5.js**
 
-Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. We're using this [p5 sketch](https://editor.p5js.org/sandpills/sketches/L2LESw-9E). Everything is setup already, but in order for you to use it, remeber to replace the `portName` variable (line 2) with your own port.
+Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. You're all set to communicate between Arduino and p5.js as long as you keep it open.
+
+We're using this [p5 sketch](https://editor.p5js.org/sandpills/sketches/L2LESw-9E) for this example. Everything is setup already, but in order for you to use it, remeber to replace the `portName` variable (line 2) with your own port.
 
 ![port name on line 2](portname.png)
 
