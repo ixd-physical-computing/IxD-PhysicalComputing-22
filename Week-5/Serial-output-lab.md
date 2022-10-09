@@ -2,7 +2,7 @@
 
 This week we covered Serial Communication - It's a lot of information to chew on, we'll resume next week to clarify and do more. Review the [week 5 lecture slides](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_0), and note any question you have.
 
-In class we did the Async Serial Output Lab I (pp. 11 - 21). We've added in more instructional materials in the slides. Review the lab, and move on to try the Async Serial Output Lab II (pp. 22 - 30), where you'd send two values from the Arduino. You can follow this guide:
+In class we did the Async Serial Output Lab I (pp. 11 - 21). We've added in more instructional materials in the slides. Review the lab, and move on to try the Async Serial Output Lab II (pp. 22 - 30), where you'd send two values from the Arduino. You can also follow this guide:
 
 ### Async Serial Output Lab II
 
@@ -12,7 +12,7 @@ Bill of materials: Redboard x1, Breadboard x1, Pushbutton x1, Potentiometer (the
 
 ![schematic](schematic-bb.png)
 
-Most of you will need to be able to send two or more values in the future. In this case, `Serial.write()` wouldn’t be able to fit much information, you need to use `Serial.print()`, and separate the values with a comma followed by a space.
+Most of you will need to be able to send two or more values in the future. In this case, `Serial.write()` wouldn’t be able to fit much information, you need to use `Serial.print()`.
 
 In the Arduino code, print out the numbers of values one by one with `Serial.print()`, seperated by printing a comma `Serial.print(", ");`, and remember to add a new lane by using `Serial.println()` on your last value. In this example, we have two values to send out.
 
@@ -37,9 +37,13 @@ void loop() {
 }
 ```
 
+In the Serial monitor, it would print as below
+
+![serial monitor](serialmonitor.png)
+
 **Connection and p5.js**
 
-Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. You're all set to communicate between Arduino and p5.js as long as you keep it open.
+Open p5.serialcontrol, and keep it open. **CLOSE THE ARDUINO SERIAL MONITOR** as only one Serial port can be accessed at once. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. You're all set to communicate between Arduino and p5.js as long as you keep the app open.
 
 We're using this [p5 sketch](https://editor.p5js.org/sandpills/sketches/L2LESw-9E) for this example. Everything is setup already, but in order for you to use it, remeber to replace the `portName` variable (line 2) with your own port.
 
@@ -96,7 +100,7 @@ function setup() {
 
 Most data receiving and formatting happens in the `serialEvent()` function later in the code (line 67-82).
 
-Now, what we're getting from the Arduino are: a number between 0-1023, a comma and space, and a nother number between 0-1. And every set of new data shows up in a new line, as seen in the serial monitor:
+Now, what we're getting from the Arduino are: a number between 0-1023, a comma and space, and a nother number between 0-1. And every set of new data shows up in a new line, as seen in the serial monitor before:
 
 ![serial monitor](serialmonitor.png)
 
