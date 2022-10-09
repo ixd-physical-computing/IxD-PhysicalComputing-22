@@ -2,6 +2,133 @@
 
 This week we covered Serial Communication - It's a lot of information to chew on, we'll resume next week to clarify and do more. Review the [week 5 lecture slides](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_0), and note any question you have.
 
-In class we did the Async Serial Output Lab I (pp. 11 - 21). We've added in more instructional materials, review the lab, and move on to try the Async Serial Output Lab II (pp. 22 - 30), where you'd send two values from the Arduino.
+In class we did the Async Serial Output Lab I (pp. 11 - 21). We've added in more instructional materials, review the lab, and move on to try the Async Serial Output Lab II (pp. 22 - 30), where you'd send two values from the Arduino. You can follow this guide:
 
-Try to combine your own sketch you made for the [p5.js Lab](p5js-lab.html) with some Serial interaction! You can always copy the entire Serial section and just change the `serialEvent()` function. Work with your midterm group if it makes it easier.
+### Async Serial Output Lab II
+
+**Arduino Side**
+
+Bill of materials: Redboard board x1, Breadboard x1, Pushbutton x1, Potentiometer (the small blue thing) x1, 10k resistor x1, jumper wires a couple
+
+![schematic](schematic-bb.png)
+
+Getting two or more values is the eventual goal, most of you will need this in the future. In this case, `Serial.write()` wouldn’t be able to fit much information, you need to use `Serial.print()`, and separate the values with a comma followed by a space.
+
+In the Arduino code, print out the numbers of values one by one with `Serial.print()`, seperated by printing a comma `Serial.print(", ");`, and remember to add a new lane by using `Serial.println()` on your last value. In this example, we have two values to send out.
+
+Full Arduino code:
+
+```c
+int potPin = A0;
+int potVal;
+int btnPin = 2;
+int btnState;
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  potVal = analogRead(potPin);
+  btnState = digitalRead(btnPin);
+  Serial.print(potVal);
+  Serial.print(", ");
+  Serial.println(btnState);
+}
+```
+
+**p5.js Side**
+
+Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. Open the accompanying [p5 sketch](https://editor.p5js.org/sandpills/sketches/L2LESw-9E). Remeber to replace the line 2 `portName` variable with your own port.
+
+What's happening in the code? Let's break it down.
+
+First don't forget to make sure the p5.serialport script is added in the index.html file, under the `<head>` tag and below the other scripts p5.js' online editor uses. The line to add is:
+
+```js
+<script
+  language="javascript"
+  type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/p5.serialserver@latest/lib/p5.serialport.js"
+></script>
+```
+
+Back to the p5.js file. We have a `setup()` function, in which we create a canvas 400px x 400px big.
+
+```js
+function setup() {
+  createCanvas(400, 400);
+}
+```
+
+Adding in [callback functions](https://www.w3schools.com/js/js_callback.asp) related to serial setups, which will be executed later in the code. You don't have to worry about them for now,
+
+```js
+function setup() {
+  createCanvas(400, 400);
+
+  // Serial setup
+
+  serial = new p5.SerialPort(); // make a new instance of the serialport library
+  serial.on("list", printList); // callback to list all the ports
+  serial.on("connected", serverConnected); // callback for connecting to server
+  serial.on("open", portOpen); // callback to check port opening
+  serial.on("data", serialEvent); // callback for when new data arrives
+  serial.on("error", serialError); // callback for errors
+  serial.on("close", portClose); // callback for the port closing
+
+  serial.list(); // list the serial ports
+  serial.open(portName); // open a serial port
+}
+```
+
+Most data receiving and formatting happens in the `serialEvent()` function later in the code (line 67-82). You are reading the incoming Serial information as strings, a sequence of characters, until you get to carriage return and newline, which is at the end of each new reading because we sent `serial.println()`.
+
+After making sure there're strings to be read, we split the incoming string by commas, which we sent through `serial.println()`, seperating both readings. We split them up, and put both them in an array called `inputs`. From here, we can access those numbers by calling their array and position: `inputs[0]` and `inputs[1]`. We covered array briefly last week, refer back to last week's [slides](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit#slide=id.g13f4cc087c6_0_75) for a refresher.
+
+```js
+function serialEvent() {
+  // read a String from serial port
+  // until you get carriage return and newline:
+  let inString = serial.readStringUntil("\r\n"); // store in a variable
+  //check to see that there's actually a string:
+  if (inString.length > 0) {
+    let inputs = split(inString, ","); // split the value by commas, put into array
+    if (inputs.length > 1) {
+      // if there are two or more elements
+      console.log(inputs[0], inputs[1]); // print the input values
+    }
+  }
+}
+```
+
+then we could call our specific inputs for this sketch, and store them in variables. This is completely optional and can be done in the `draw()` function too, but I like to keept them defined before sending them there.
+
+```js
+potVal = map(inputs[0], 0, 1023, 0, width); // first element in the array
+pressed = inputs[1]; // second element in the array
+```
+
+In the `draw()` function, the sketch gets drawn out, and we can add conditions to use the Serial data as interactive devices.
+
+```js
+function draw() {
+  background(0);
+  // change ball color on press
+  if (pressed == 1) {
+    // if pressed, color it blue
+    fill(color(0, 0, 255));
+  } else {
+    // if not pressed, color it yellow
+    fill(color(255, 255, 0));
+  }
+  noStroke();
+  ellipse(width / 2, height / 2, potVal, potVal); // now draw the ellipse, size based on pot value
+  // draw a line based on pot value
+  stroke(255);
+  strokeWeight(4);
+  line(5, 5, potVal, potVal);
+}
+```
+
+Hope it worked for you!! Try to combine your own sketch you made for the [p5.js Lab](p5js-lab.html) with some Serial interaction! You can always copy the entire Serial section and just change the `serialEvent()` function. Work with your midterm group if it makes it easier.
