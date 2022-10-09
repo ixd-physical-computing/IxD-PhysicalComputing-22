@@ -88,7 +88,11 @@ function setup() {
 
 Most data receiving and formatting happens in the `serialEvent()` function later in the code (line 67-82).
 
-In there, the program is reading the incoming Serial information as strings, a sequence of characters, until it gets to carriage return (`\r`) and newline (`\n`). These characters are at the end of each new reading because we sent `serial.println()`, which automatically sends out a carriage return byte and a newline byte. It's an easy way to tell the program: hey it's a new line, that means we got through to the end of the current reading, now onto the next one.
+Now, what we're getting from the Arduino are: a number between 0-1023, a comma and space, and a nother number between 0-1. And every set of new data shows up in a new line, as seen in the serial monitor:
+
+![serial monitor](serialmonitor.png)
+
+In the `serialEvent()` function, the program is reading the incoming Serial information as strings, a sequence of characters, until it gets to carriage return (`\r`) and newline (`\n`). These characters are at the end of each new reading because we sent `serial.println()`, which automatically sends out a carriage return byte and a newline byte. It's an easy way to tell the program: hey it's a new line, that means we got through to the end of the current reading, now onto the next one.
 
 After making sure there're strings to be read, we split the incoming string by commas, which we sent through `serial.println()`, seperating both readings. We split them up, and put both them in an array called `inputs`. From here, we can access those numbers by calling their array and position: `inputs[0]` and `inputs[1]`. We covered array briefly last week, refer back to last week's [slides](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit#slide=id.g13f4cc087c6_0_75) for a refresher.
 
