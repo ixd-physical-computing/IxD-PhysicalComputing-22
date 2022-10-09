@@ -12,7 +12,7 @@ Bill of materials: Redboard x1, Breadboard x1, Pushbutton x1, Potentiometer (the
 
 ![schematic](schematic-bb.png)
 
-Getting two or more values is the eventual goal, most of you will need this in the future. In this case, `Serial.write()` wouldn’t be able to fit much information, you need to use `Serial.print()`, and separate the values with a comma followed by a space.
+Most of you will need to be able to send two or more values in the future. In this case, `Serial.write()` wouldn’t be able to fit much information, you need to use `Serial.print()`, and separate the values with a comma followed by a space.
 
 In the Arduino code, print out the numbers of values one by one with `Serial.print()`, seperated by printing a comma `Serial.print(", ");`, and remember to add a new lane by using `Serial.println()` on your last value. In this example, we have two values to send out.
 
