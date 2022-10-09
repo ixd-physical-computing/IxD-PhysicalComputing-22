@@ -14,7 +14,7 @@ Bill of materials: Redboard x1, Breadboard x1, Pushbutton x1, Potentiometer (the
 
 Most of you will need to be able to send two or more values in the future. In this case, `Serial.write()` wouldn’t be able to fit much information, you need to use `Serial.print()`.
 
-In the Arduino code, print out the numbers of values one by one with `Serial.print()`, seperated by printing a comma `Serial.print(", ");`, and remember to add a new lane by using `Serial.println()` on your last value. In this example, we have two values to send out.
+In the Arduino code, print out the values one by one with `Serial.print()`, each seperated by comma `Serial.print(", ");`, and remember to add a new line by using `Serial.println()` on your last value. In this example, we have two values to send out.
 
 Full Arduino code:
 
