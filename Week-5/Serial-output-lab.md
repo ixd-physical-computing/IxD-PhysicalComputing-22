@@ -39,7 +39,9 @@ void loop() {
 
 **Connection and p5.js**
 
-Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. Open the accompanying [p5 sketch](https://editor.p5js.org/sandpills/sketches/L2LESw-9E). Remeber to replace the line 2 `portName` variable with your own port.
+Open p5.serialcontrol, and keep it open. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. We're using this [p5 sketch](https://editor.p5js.org/sandpills/sketches/L2LESw-9E). Everything is setup already, but in order for you to use it, remeber to replace the `portName` variable (line 2) with your own port.
+
+![port name on line 2](portname.png)
 
 What's happening in the code? Let's break it down.
 
@@ -145,4 +147,4 @@ function draw() {
 }
 ```
 
-Hope it worked for you!! Try to combine your own sketch you made for the [p5.js Lab](p5js-lab.html) with some Serial interaction! You can always copy the entire Serial section and just change the `serialEvent()` function. Work with your midterm group if it makes it easier.
+Hope it worked for you!! Try to change a couple parameters, or combine your own sketch you made for the [p5.js Lab](p5js-lab.html) with some Serial interaction! You can always copy the entire Serial section (line 48 onwards) and just change the `serialEvent()` function. Work with your midterm group if it makes it easier.
