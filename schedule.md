@@ -123,22 +123,27 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 
 ...
 
-### Week 6: Serial Communication, part II
+### ✨ Week 6: Serial Communication, part II
 
 - Midterm Project Proposal
-- Project planning and documentation
 - Serial Communication Lab II
+
+Lecture slides [here](https://docs.google.com/presentation/d/1v_Jo6gZIdJlOPMcWARaRM2iJy7EEFJO7VJOx7kpo-Gg/edit?usp=sharing)
 
 ...
 
 #### Assignments (due 10/20):
 
-- Review: Serial Communication with p5.js
+- Lab: Serial Output Lab II, multiple values & handshaking
 - Work on [Midterm Project](Projects/midterm.html)
 
 ...
 
 ### Week 7: Midterm Project Lab
+
+- A variety of sensors to demo and try!
+- Project planning and documentation
+- Work on midterm projects
 
 ...
 

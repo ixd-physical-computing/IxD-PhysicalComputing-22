@@ -18,7 +18,7 @@ Develop your project idea with step-by-step prototyping in mind.
 
 Use the [Sensor Research Assignment](Week-4/Sensor-project-research.html) as a starting poiont to look into sensors we haven't used for labs yet. Search [Sparkfun](www.sparkfun.com), [Adafruit](www.adafruit.com), [Modern device](www.moderndevice.com), and [Micro Center](https://www.microcenter.com/search/search_results.aspx?N=&cat=&Ntt=arduino+sensors&searchButton=search) (the only place listed that has a physical store), among others, for sensors you can buy that are known to be able to interface with Arduinos. Also search on [Arduino forums](http://forum.arduino.cc) and [Sparkfun forums](https://forum.sparkfun.com) for others asking about the same things you are wondering about. Experimentation with new sensors is encouraged, but it's okay to use ones that are easier to interface with, such as rotation, pressure, bending, light, temperature, distance, or sound volume.
 
-### Midterm Pitch, Due in Week 6
+### Midterm Pitch, Due on October 13 (Week 6)
 
 Together with your group, write about the following in your blogs:
 
