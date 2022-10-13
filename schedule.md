@@ -94,7 +94,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 
 Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit?usp=sharing)
 
-#### Assignment:
+#### Assignments (due 10/6):
 
 - Lab: [Debouncing and Smoothing](Week-4/Debouncing-smoothing.html)
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
@@ -115,7 +115,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 
 Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_396)
 
-#### Assignment:
+#### Assignments (due 10/13):
 
 - Lab: [p5.js Lab](Week-5/p5js-lab.html)
 - Lab: [Serial Output Lab](Week-5/Serial-output-lab.html)
@@ -131,13 +131,16 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 
 ...
 
-#### Assignment:
+#### Assignments (due 10/20):
 
 - Review: Serial Communication with p5.js
 - Work on [Midterm Project](Projects/midterm.html)
 
+...
+
 ### Week 7: Midterm Project Lab
 
+...
 
 ### Week 8: Midterm Crit!
 
