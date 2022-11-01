@@ -106,7 +106,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 
 ...
 
-### ✨ Week 5: Serial Communication
+### ✨ Week 5: Intro to Serial Communication
 
 - Sensor and Project Research Presentation
 - Serial Communication: Theory, protocols, data encoding
@@ -134,21 +134,51 @@ Lecture slides [here](https://docs.google.com/presentation/d/1v_Jo6gZIdJlOPMcWAR
 
 #### Assignments (due 10/20):
 
-- Lab: Serial Output Lab II, multiple values & handshaking
+- Lab: Serial Output Lab II, multiple values & handshaking (in lecture slides)
 - Work on [Midterm Project](Projects/midterm.html)
 
 ...
 
 ### Week 7: Midterm Project Lab
 
-- A variety of sensors to demo and try!
-- Project planning and documentation
-- Work on midterm projects
+Midterm projects development: we'll come around and help each group in case you have any questions.
 
 ...
 
 ### Week 8: Midterm Crit!
 
+Present your [Midterm Project](Projects/midterm.html).
+
 ...
 
---- syllabus will be updated as the semester unfolds... ---
+### Week 9: Reinforcement on Topics
+
+- Reinforcement of unclear concepts
+- Serial Communication Lab III: Handshaking, interfacing with sensors of your choice
+- LED strip demonstrations
+
+#### Assignments (due 11/9):
+
+- Post Midterm Documentation
+- Lab: Duplex (two-way) Serial Communication
+- Project:
+
+...
+
+-
+
+### Week 10:
+
+### Week 11:
+
+Assignment: Final project proposal
+
+### Week 12:
+
+- Final Project pitch & workshop
+
+### Week 13:
+
+- In-class playtest
+
+### Week 14: Final Project
