@@ -139,29 +139,32 @@ Lecture slides [here](https://docs.google.com/presentation/d/1v_Jo6gZIdJlOPMcWAR
 
 ...
 
-### Week 7: Midterm Project Lab
+### ✨ Week 7: Midterm Project Lab
 
 Midterm projects development: we'll come around and help each group in case you have any questions.
 
 ...
 
-### Week 8: Midterm Crit!
+### 🕹 Week 8: Midterm Crit!
 
 Present your [Midterm Project](Projects/midterm.html).
 
 ...
 
-### Week 9: Reinforcement on Topics
+### ✨ Week 9: Reinforcement on Topics
 
 - Reinforcement of unclear concepts
 - Serial Communication Lab III: Handshaking, interfacing with sensors of your choice
 - LED strip demonstrations
 
+Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH3fwzL3Hb48LbnF2S3iw4Vmg_E/edit?usp=sharing)
+
 #### Assignments (due 11/9):
 
 - Post Midterm Documentation
-- Lab: Duplex (two-way) Serial Communication
-- Project:
+- Review in-class Handshaking lab
+- Lab (optional): p5 Serial Out
+- Project: p5-Arduino Communication
 
 ...
 
