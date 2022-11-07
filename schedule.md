@@ -110,15 +110,15 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 
 - Sensor and Project Research Presentation
 - Serial Communication: Theory, protocols, data encoding
-- [Serial Output Lab with p5.js](Week-5/Serial-p5.html)
-- Serial interfacing with different softwares
+- [Serial Communication](Week-5/Serial-p5.html) Lab with p5.js
+- Interfacing with different softwares
 
 Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_396)
 
 #### Assignments (due 10/13):
 
 - Lab: [p5.js Lab](Week-5/p5js-lab.html)
-- Lab: [Serial Output Lab](Week-5/Serial-output-lab.html)
+- Lab: [Arduino Serial Output Lab](Week-5/Serial-output-lab.html)
 - [Midterm Project](Projects/midterm.html) Proposal
 
 ...
@@ -155,7 +155,6 @@ Present your [Midterm Project](Projects/midterm.html).
 
 - Reinforcement of unclear concepts
 - Serial Communication Lab III: Handshaking, interfacing with sensors of your choice
-- LED strip demonstrations
 
 Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH3fwzL3Hb48LbnF2S3iw4Vmg_E/edit?usp=sharing)
 
@@ -163,14 +162,15 @@ Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH
 
 - Post Midterm Documentation
 - Review in-class Handshaking lab
-- Lab (optional): p5 Serial Out
-- Project: p5-Arduino Communication
+- Lab (optional): [p5 Serial Out](Week-9/p5-serial-out.html)
+- Project: [p5-Arduino Communication](Week-9/)
 
 ...
 
--
-
 ### Week 10:
+
+- Homework discussion!
+- LED strip & demonstrations
 
 ### Week 11:
 
@@ -184,4 +184,6 @@ Assignment: Final project proposal
 
 - In-class playtest
 
-### Week 14: Final Project
+### Week 14: Final Project Crit
+
+Documentation is due Tuesday, Dec 20th

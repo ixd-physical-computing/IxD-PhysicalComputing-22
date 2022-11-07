@@ -1,4 +1,4 @@
-## Serial Output Lab
+## Arduino Serial Output Lab
 
 This week we covered Serial Communication, which is how you would send data from a microcontroller to your personal computer. Review the [week 5 lecture slides](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_0), and note any question you have.
 
