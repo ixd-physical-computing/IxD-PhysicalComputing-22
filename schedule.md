@@ -163,7 +163,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH
 - Post Midterm Documentation
 - Review in-class Handshaking lab
 - Lab (optional): [p5 Serial Out](Week-9/p5-serial-out.html)
-- Project: [p5-Arduino Communication](Week-9/)
+- Project: [p5-Arduino Communication](Week-9/p5-arduino-comm.html)
 
 ...
 
