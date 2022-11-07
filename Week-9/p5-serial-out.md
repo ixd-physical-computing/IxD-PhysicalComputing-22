@@ -37,12 +37,13 @@ In this sketch, we store Serial data coming into the Arduino board into a variab
 Open the p5.serialcontrol app, and keep it open. CLOSE THE ARDUINO SERIAL MONITOR as only one Serial port can be accessed at once. Scan your ports to make sure the Serial port that connects to your Arduino is appearing in the Info panel. You’re all set to communicate between Arduino and p5.js as long as you keep the app open.
 
 We’re using [this](https://editor.p5js.org/sandpills/sketches/kM5DkOhM0) p5 sketch for this example. Everything is setup already, but in order for you to use it, remeber to replace the portName variable (line 2) with your own port.
+If it works correctly, clicking and dragging your mouse up and down in the canvas should change the brightness of your LED!
 
 ![port name on line 2](mousedrag.png)
 
 **What's happening in the code? Let's break it down**
 
-Most of the new things are happening in `mouseDragged()`, a [function native to p5.js](https://p5js.org/reference/#/p5/mouseDragged)
+Most of the new things are happening in `mouseDragged()`, a [function native to p5.js](https://p5js.org/reference/#/p5/mouseDragged). Here, we're getting information everytime your mouse is clicked and dragged on the canvas.
 
 ```js
 function mouseDragged() {
@@ -51,11 +52,11 @@ function mouseDragged() {
   outByte = constrain(outByte, 0, 255);
   // send it out the serial port:
   serial.write(outByte);
-  console.log(outByte);
+  console.log(outByte); // logging the number out in console window just in case
 }
 ```
 
-Here we're mapping `mouseY` (also native to p5.js, a function reading your mouse's Y position relative to the sketch) values to a range from 0 to 255 in order to fit into a byte, and storing it in a global variable `outByte`, which was called in the beginning of the code.
+We're recording `mouseY` (also native to p5.js, a function reading your mouse's Y position relative to the sketch), and mapping this value to a range from 0 to 255 in order to fit into a byte, and storing it in a global variable `outByte`, which was called in the beginning of the code.
 
 by using `serial.write()`, you're sending data out, one byte at a time. In Arduino, these bytes are read by the `Serial.read()` function, which also only read information in bytes.
 
