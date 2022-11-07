@@ -2,7 +2,7 @@
 
 We've demonstrated in class how you're able to establish Duplex (two-way) communication with Arduino and p5.js by handshaking (review it on the Week 9 lecture [slide](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH3fwzL3Hb48LbnF2S3iw4Vmg_E/edit#slide=id.g17dc17132de_0_82)), where you used the `serial.write()` fuction in p5.js to send out bytes of information, and `Serial.read()` in Arduino to receive them. In this lab, you'll learn to send a byte from p5.js to Arduino, and use it to change the brightness of an LED.
 
-This example is adapted from this [Lab](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/) from the ITP Physical Computing site, follow it for more in-depth explanations.
+This example is adapted from this [Lab](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/) from the ITP Physical Computing site, and this [tutorial](https://docs.arduino.cc/built-in-examples/communication/Dimmer) on the Arduino site. Follow both for more in-depth explanations.
 
 **Arduino**
 
@@ -61,6 +61,4 @@ by using `serial.write()`, you're sending data out, one byte at a time. In Ardui
 
 ### Only one byte at a time
 
-Now, this example only enables p5.js to send out one byte at a time (a value from 0 to 255), similar to how we first learned to send data from Arduino to p5.js. In order to send multiple numbers in ASCII-encoded strings, you can still use `serial.write()` on the p5.js end. However, if you want to convert multi-byte number strings to numeric values on the Arduino end, you’ll need a new function to read ASCII-encoded numeric strings called `parseInt()`.
-
-Part 2 to come!
+Now, this example only enables p5.js to send out one byte at a time (a value from 0 to 255), similar to how we first learned to send data from Arduino to p5.js. In order to send multiple numbers in ASCII-encoded strings, you can still use `serial.write()` on the p5.js end. However, if you want to convert multi-byte number strings to numeric values on the Arduino end, you’ll need a new function to read ASCII-encoded numeric strings called `parseInt()`. We're not going to get into this now, but if you're interested, [this thread](https://forum.arduino.cc/t/serial-input-basics/278284) on the Arduino Forum is very informative.
