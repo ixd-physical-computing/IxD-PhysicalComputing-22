@@ -171,6 +171,12 @@ Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH
 
 - Homework discussion!
 - LED strip & demonstrations
+- Introduction to Synchronous Serial Communication
+
+#### Assignments (due 11/16):
+
+- Review in-class lab
+- Lab: I2C Communication with
 
 ### Week 11:
 
