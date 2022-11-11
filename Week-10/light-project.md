@@ -8,6 +8,6 @@ Your light should:
 
 - Have a color scheme that are specific to the design, the environment, and the mood you're trying to convey. No rainbow color scrolling please (unless it's intended) you're all designers here.
 
-- Enclosed with some kind of shade of [diffuser](<https://en.wikipedia.org/wiki/Diffuser_(optics)>), so that your light strips are not exposed outside directly. It can as easy as putting the strip into an existing box, bottle, paper lantern, etc., or you can make your own enclosure as well. Experiment with different materials: matte, glossy, semi-transparent, reflective, and see how they affect the look of the light. Remember that paper can be really good diffusers!
+- Enclosed with some kind of shade or [diffuser](<https://en.wikipedia.org/wiki/Diffuser_(optics)>), so that your light strips are not exposed outside directly. It can as easy as putting the strip into an existing box, bottle, paper lantern, etc., or you can make your own enclosure as well. Experiment with different materials: matte, glossy, semi-transparent, reflective, and see how they affect the look of the light. Remember that paper can be really good diffusers!
 
 As always, it doesn't have to be very complex, but try to make it look neat. Document your work on your blog! Include sketches, diagrams, schematics, code, process photos, questions, and photos and video of working result.
