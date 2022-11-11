@@ -4,7 +4,7 @@ Working in groups with LED strips, redesign an existing light, or build your own
 
 Your light should:
 
-- Be able to change (turn on and off, switch between different settings, adjust colors, fade in and out, change blink speed, or a combination of some of them) based on some kind of sensor input. Design the interaction and an interface with users in mind: Who would be using the light? What behaviors are expected of the user? How do those movements reflect in the changes of light? Are these implicit (passive) or explicit (active) interactions?
+- Be able to change (turn on and off, switch between different settings, adjust colors, fade in and out, change blink speed, or a combination of some of them) based on some kind of sensor input. Design the interaction and interface with users in mind: Who would be using the light? What behaviors are expected of the user? How do those movements reflect in the changes of light? Are these implicit (passive) or explicit (active) interactions?
 
 - Have a color scheme that are specific to the design, the environment, and the mood you're trying to convey. Be intentional! No rainbow color scrolling please you're all designers here.
 
