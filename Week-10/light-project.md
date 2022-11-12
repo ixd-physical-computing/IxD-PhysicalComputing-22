@@ -10,4 +10,6 @@ Your light should:
 
 - Enclosed with some kind of shade or [diffuser](<https://en.wikipedia.org/wiki/Diffuser_(optics)>), so that your light strips are not exposed outside directly. It can as easy as putting the strip into an existing box, bottle, paper lantern, etc., or you can make your own enclosure as well. Experiment with different materials: matte, glossy, semi-transparent, reflective, and see how they affect the look of the light. Remember that paper can be really good diffusers!
 
+Here are some light artists and lighting designers you might find inspiration from: [Dan Flavin](https://www.guggenheim.org/artwork/artist/dan-flavin), [James Clar](http://www.jamesclar.com/), [Olafur Eliasson](https://olafureliasson.net/tag/TEL1413/light), [James Turrell](https://jamesturrell.com/work/type/), [Mary Corse](https://www.pacegallery.com/artists/mary-corse/), [Anthony McCall](https://www.skny.com/artists/anthony-mccall)
+
 As always, it doesn't have to be very complex, but try to make it look neat. Document your work on your blog! Include sketches, diagrams, schematics, code, process photos, questions, and photos and video of working result.
