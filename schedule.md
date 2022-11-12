@@ -94,15 +94,15 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 
 Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit?usp=sharing)
 
+#### Read and Watch:
+
+- [Introduction to Serial Communication](Week-4/Intro-to-serial.html)
+
 #### Assignments (due 10/6):
 
 - Lab: [Debouncing and Smoothing](Week-4/Debouncing-smoothing.html)
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
 - [Midterm Project](Projects/midterm.html) Brainstorming
-
-#### Read and Watch:
-
-- [Introduction to Serial Communication](Week-4/Intro-to-serial.html)
 
 ...
 
@@ -158,6 +158,10 @@ Present your [Midterm Project](Projects/midterm.html).
 
 Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH3fwzL3Hb48LbnF2S3iw4Vmg_E/edit?usp=sharing)
 
+#### Read and Watch:
+
+- [Introduction to Serial Communication](Week-4/Intro-to-serial.html)
+
 #### Assignments (due 11/9):
 
 - Post Midterm Documentation
@@ -177,12 +181,20 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 #### Assignments (due 11/16):
 
 - Review in-class LED lab
-- Lab: I2C Communication with
 - Project: [Let there be Light](Week-10/light-project.html)
+
+#### Read and Watch:
+
+- We're going to talk about Synchronous Serial next week, preview the [introduction slides](https://docs.google.com/presentation/d/1pZAsBYkgei1l1Ofl2xaVa2SFMu2sS_uHSQXPSqcfz6k/edit?usp=sharing), and browse through Sparkfun's tutorials on the 2 most common protocols, [SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi) and [I2C](https://learn.sparkfun.com/tutorials/i2c).
 
 ### Week 11:
 
-Assignment: Final project proposal
+- Homework discussion!
+- Introduction to Synchronous Communication
+- Demo and lab: I2C
+- Easing into Final Project & schedules
+
+#### Assignments (due 11/16):
 
 ### Week 12:
 
