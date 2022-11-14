@@ -14,6 +14,8 @@ Here are some light artists and lighting designers you might find inspiration fr
 
 As always, it doesn't have to be very complex, but try to make it look neat. Document your work on your blog! Include sketches, diagrams, schematics, code, process photos, questions, and photos and video of working result.
 
+Slides from class: https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSDqcdN67SFRIwNKWlKiviLiysCw/edit?usp=sharing 
+
 CODE HELP: Look at all the built-in FastLED examples, and all of the NeoPixel (https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation) examples. Then look at these more advanced examples: https://github.com/atuline/FastLED-Demos. Use Google for more, there are thousands out there. 
 
 Those wishing to keep animations playing without delaying sensor input will want to find exampes using FastLED's EVERY_N_MILLISECONDS() or EVERY_N_SECONDS()  - note the use of FastLED.delay() instead of normal Arduino delay() ....
