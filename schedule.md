@@ -171,7 +171,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH
 
 ...
 
-### Week 10:
+### ✨ Week 10: All about LED strips
 
 - Homework discussion!
 - LED strip & demonstrations
@@ -187,23 +187,27 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 
 - We're going to talk about Synchronous Serial next week, preview the [introduction slides](https://docs.google.com/presentation/d/1pZAsBYkgei1l1Ofl2xaVa2SFMu2sS_uHSQXPSqcfz6k/edit?usp=sharing), and browse through Sparkfun's tutorials on the 2 most common protocols, [SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi) and [I2C](https://learn.sparkfun.com/tutorials/i2c).
 
-### Week 11:
+### ✨ Week 11: Synchronous Serial Communication
 
 - Homework discussion!
 - Introduction to Synchronous Communication
 - Demo and lab: I2C
 - Easing into Final Project & schedules
 
-#### Assignments (due 11/16):
+#### Assignments:
 
-### Week 12:
+- [Final Project](Projects/final.html) Proposal
+
+### Week 12: Thanksgiving, no class
+
+### Week 13 (12/1):
 
 - Final Project pitch & workshop
 
-### Week 13:
+### Week 14 (12/8):
 
 - In-class playtest
 
-### Week 14: Final Project Crit
+### Week 15 (12/15): Final Project Crit
 
 Documentation is due Tuesday, Dec 20th
