@@ -202,7 +202,14 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 
 ### Week 13 (12/1):
 
-- Final Project pitch & workshop
+- Transistors and Relays
+- [Final Project](Projects/final.html) pitch & workshop
+
+#### Assignments:
+
+- Reading & Tutorial: Stepper Motors
+- Reading & Tutorial: DC Motors
+- Work on your final project
 
 ### Week 14 (12/8):
 
