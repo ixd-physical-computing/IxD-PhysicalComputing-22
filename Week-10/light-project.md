@@ -18,4 +18,8 @@ Slides from class: https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSDqcd
 
 CODE HELP: Look at all the built-in FastLED examples, and all of the NeoPixel (https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation) examples. Then look at these more advanced examples: https://github.com/atuline/FastLED-Demos. Use Google for more, there are thousands out there. 
 
+...
+
 Those wishing to keep animations playing without delaying sensor input will want to find exampes using FastLED's EVERY_N_MILLISECONDS() or EVERY_N_SECONDS()  - note the use of FastLED.delay() instead of normal Arduino delay() ....
+
+* Example: https://github.com/ericjforman/FastLED_sensorInput
