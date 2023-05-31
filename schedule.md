@@ -145,7 +145,8 @@ Midterm projects development: we'll come around and help each group in case you 
 
 ### 🕹 Week 8: Midterm Crit!
 
-Present your [Midterm Project](Projects/midterm.html).
+- Present your [Midterm Project](Projects/midterm.html).
+- Remember to complete [Midterm Feedback form](https://forms.gle/r7v41fQRNu1onkDPA) before next class!
 
 ...
 
@@ -212,6 +213,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 ### Week 14 (12/8):
 
 - In-class playtest
+- Guideline and schedule can be found [here](https://docs.google.com/presentation/d/1JvctM1dFaY6jaXa7eGWhVxec7sIdKYq4HlqfqKuwG9M/edit?usp=sharing)
 
 ### Week 15 (12/15): Final Project Crit
 
