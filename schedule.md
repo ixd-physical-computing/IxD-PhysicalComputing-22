@@ -4,8 +4,6 @@ Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcM
 
 CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com).
 
-Student blog [links](blog-links.html)
-
 ...
 
 ### ✨ Week 1: Introductions and Electronics
