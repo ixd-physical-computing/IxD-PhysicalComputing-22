@@ -194,6 +194,8 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 - Demo and lab: I2C
 - Easing into Final Project & schedules
 
+Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSDqcdN67SFRIwNKWlKiviLiysCw/edit?usp=sharing)
+
 #### Assignments:
 
 - [Final Project](Projects/final.html) Proposal
@@ -207,8 +209,6 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 
 #### Assignments:
 
-- Reading & Tutorial: Stepper Motors
-- Reading & Tutorial: DC Motors
 - Work on your final project
 
 ### Week 14 (12/8):
