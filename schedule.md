@@ -11,7 +11,6 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - What is physical interaction? Differences between inplicit and explicit interactions.
 - Examples of physical computing projects (Biggest hits)
 - Electronics 101: Electricity, components, schematics, prototyping board, multimeter.
-- Demo of paper & wire circuits.
 
 #### Assignments (due 9/11):
 
