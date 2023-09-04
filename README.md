@@ -12,9 +12,9 @@ Tuesdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
 ## Instructors
 
-Viola He ([website](https://violand.xyz)): lhe21@sva.edu / Office Hours 💼 Mon & Wed 6-8 PM
+Viola He ([website](https://violand.xyz)): [lhe21@sva.edu](mailto:lhe21@sva.edu) / Office Hours 💼 Mon & Wed 6-8 PM
 
-Daniel Ryan Johnston ([website](https://danielryanjohnston.com/fb90db9579e544a29c17db47927a1ed8)): djohnston2@sva.edu / Office Hours 💼 Tue 5-7 PM, schedule [here](https://calendar.app.google/42C4A8LnMEVW6shV7)
+Daniel Ryan Johnston ([website](https://danielryanjohnston.com/fb90db9579e544a29c17db47927a1ed8)): [djohnston2@sva.edu](mailto:djohnston2@sva.edu) / Office Hours 💼 Tue 5-7 PM, schedule [here](https://calendar.app.google/42C4A8LnMEVW6shV7)
 
 <br>
 
@@ -48,11 +48,9 @@ More information available in the parts and tools page (Updating).
 
 <br>
 
-## Recommended Readings (Updating)
+## Recommended Readings
 
 Readings and resources are shared [here](https://www.are.na/viola-he/ixd-physical-computing).
-
-<br>
 
 **Technical - selections from:**
 
@@ -77,9 +75,7 @@ Weekly schedule will be updated [here](schedule.html)
 
 ### VFL Access
 
-Our class takes place at the Visible Futures Lab (VFL), a facility open to faculty and staff of SVA and all students of SVA graduate programs. Access to the VFL machines outside of the makerspace requires training and certification.
-
-Training sessions are offered for the wood shop, Shopbot (CNC gantry router), laser cutters and 3D printers and range from 1 to 3 hours.
+Our class takes place at the Visible Futures Lab (VFL), a facility open to faculty and staff of SVA and all students of SVA graduate programs. Access to the VFL machines outside of the makerspace requires training and certification. Training sessions are offered for the wood shop, Shopbot (CNC gantry router), laser cutters and 3D printers and range from 1 to 3 hours.
 
 All users must have an appointment before accessing the VFL (except classes). To book an appointment, visit the [appointments](https://www.vfl.sva.edu/appointments) page on VFL's website.
 
@@ -91,7 +87,7 @@ Academic dishonesty, including plagiarism, will not be tolerated. Students found
 
 ### Students with Disabilities
 
-SVA is committed to providing students with access to their academic programs and courses. If you are a student with a disability and require accommodations, you must register with Disability Resources by visiting https://sva.edu/disabilityresources and completing an online accommodation request. To be eligible for accommodations in this course, students must provide the instructor with a letter of accommodation from Disability Resources. For questions or assistance, please call Disability Resources at 212-592-2396, or visit the office: 340 East 24th Street, New York, NY 10010, or email disabilityservices@sva.edu
+SVA is committed to providing students with access to their academic programs and courses. If you are a student with a disability and require accommodations, you must register with Disability Resources by visiting their [website](https://sva.edu/disabilityresources) and completing an online accommodation request. To be eligible for accommodations in this course, students must provide the instructor with a letter of accommodation from Disability Resources. For questions or assistance, please call Disability Resources at 212-592-2396, or visit the office: 340 East 24th Street, New York, NY 10010, or email [disabilityservices@sva.edu](mailto:disabilityservices@sva.edu)
 
 ### SVA Attendance Policy
 
