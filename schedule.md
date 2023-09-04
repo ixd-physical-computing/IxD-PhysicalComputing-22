@@ -2,7 +2,7 @@
 
 Readings and resources are shared [here](https://www.are.na/viola-he/ixd-physical-computing).
 
-✦✦✦
+...
 
 ### ✨ Week 1: Introductions and Electronics
 
@@ -26,7 +26,7 @@ Welcome to physical computing! In this first session, we'll overview the course,
   - Ch 1 Electricity
 - Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law).
 
-✦✦✦
+...
 
 ### ✨ Week 2: Microcontrollers
 
@@ -48,7 +48,7 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Optional - Charles Platt, **Make: Electronics**
   - Introduction & Chapter 1: Experiencing Electricity
 
-✦✦✦
+...
 
 ### ✨ Week 3: Programming
 
@@ -68,7 +68,7 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**.
   - Ch 9 Sensing Movement. Skip the programming parts and focus on different criterias and methods of object sensing.
 
-✦✦✦
+...
 
 ### ✨ Week 4: Data Management
 
@@ -88,7 +88,7 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
 - [Midterm Project](Projects/midterm.html) Brainstorming
 
-✦✦✦
+...
 
 ### ✨ Week 5: Intro to Serial Communication
 
@@ -105,7 +105,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 - Lab: [Arduino Serial Output Lab](Week-5/Serial-output-lab.html)
 - [Midterm Project](Projects/midterm.html) Proposal
 
-✦✦✦
+...
 
 ### ✨ Week 6: Serial Communication, part II
 
@@ -117,20 +117,20 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 - Lab: Serial Output Lab II, multiple values & handshaking (in lecture slides)
 - Work on [Midterm Project](Projects/midterm.html)
 
-✦✦✦
+...
 
 ### ✨ Week 7: Midterm Project Lab
 
 Midterm projects development: we'll come around and help each group in case you have any questions.
 
-✦✦✦
+...
 
 ### 🕹 Week 8: Midterm Crit!
 
 - Present your [Midterm Project](Projects/midterm.html).
 - Remember to complete [Midterm Feedback form](https://forms.gle/r7v41fQRNu1onkDPA) before next class!
 
-✦✦✦
+...
 
 ### ✨ Week 9: Subject to Change
 
@@ -149,7 +149,7 @@ Midterm projects development: we'll come around and help each group in case you 
 - Lab (optional): [p5 Serial Out](Week-9/p5-serial-out.html)
 - Project:
 
-✦✦✦
+...
 
 ### ✨ Week 10: Subject to Change
 
@@ -165,7 +165,7 @@ Midterm projects development: we'll come around and help each group in case you 
 
 - We're going to talk about Synchronous Serial next week, preview the [introduction slides](https://docs.google.com/presentation/d/1pZAsBYkgei1l1Ofl2xaVa2SFMu2sS_uHSQXPSqcfz6k/edit?usp=sharing), and browse through Sparkfun's tutorials on the 2 most common protocols, [SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi) and [I2C](https://learn.sparkfun.com/tutorials/i2c).
 
-✦✦✦
+...
 
 ### ✨ Week 11: Synchronous Serial Communication
 
@@ -180,13 +180,13 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 
 - [Final Project](Projects/final.html) Proposal
 
-✦✦✦
+...
 
-### Week 12: Thanksgiving, no class
+### 😴 Week 12: Thanksgiving, no class
 
-✦✦✦
+...
 
-### Week 13: Finals Pitch
+### ✨ Week 13: Finals Pitch
 
 - Reinforcement of unclear concepts
 - [Final Project](Projects/final.html) pitch & workshop
@@ -195,10 +195,10 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 
 - Work on your final project
 
-✦✦✦
+...
 
-### Week 14: In-class playtest
+### ✨ Week 14: In-class playtest
 
-✦✦✦
+...
 
-### Week 15: Final Project Crit
+### 🕹 Week 15: Final Project Crit
