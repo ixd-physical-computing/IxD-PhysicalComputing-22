@@ -13,26 +13,28 @@ Tuesdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 ## Instructors
 
 Viola He: lhe21@sva.edu / [website](https://violand.xyz)
+
 Office Hours 💼 Mon / Wed 6-8 PM
 
 Daniel Ryan Johnston: djohnston2@sva.edu / [website](https://danielryanjohnston.com/fb90db9579e544a29c17db47927a1ed8)
+
 Office Hours (schedule [here](https://calendar.app.google/42C4A8LnMEVW6shV7)) 💼 Tue 5-7 PM
 
 <br>
 
 ## Class Description
 
-This course is a practical, hands-on exploration of physically interactive technology for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Starting with the basics using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as complex output, including motors, video and intercommunication between objects. _No previous programming or electronics experience is required._
+This course is a practical, hands-on exploration of physical interaction for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as more advanced output, including motors, video and intercommunication between objects. _No previous programming or electronics experience is required._
 
 <br>
 
 ## Class Expectation
 
-**Attendance**: Participation in group discussions and collaborative assignments during workshop sections are an important part of the course, any unexcused absences will affect your grade. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructors at least 24 hours of advanced notice.
+**Attendance**: Participation in group discussions and collaborative assignments during workshop sections are an important part of the course. More than two unexcused absences and you risk failing the course. If you need to be absent for any reason, please give the instructors at least 24 hours of advanced notice on Slack or via email.
 
 **Assignments**: Each week you're expected to review and practice materials in lab assignments, complete project assignments, and document your progress and questions in your Physical Computing blog. There will be two group projects for midterm and final, which you will show on Week 7 and Week 14.
 
-**Documentation**: Blog posts are due 23:59, Wednesday before each class. A good blog post should include ideation, design, circuit diagram/schematic, photos and videos of your process, and a showcase of the final result. Here're a couple of example blogs from past students for inspiration: [Young Kim](https://tremendous-angora-935.notion.site/Young-s-Blog-17ab8f05f52b422b8f774fd8405fdcc8) (Notion), [Awanee Joshi](https://medium.com/@awaneemjoshi/list/awanees-physical-computing-blog-posts-5a2cc296e9f8) (Medium), [Poonam Patel](https://www.poonampatel.me/physical-computing-blog) (page in personal website)
+**Documentation**: Blog posts are due 23:59, Monday before each class. A good blog post should include ideation, design, circuit diagram/schematic, photos and videos of your process, and a showcase of the final result. Here're a couple of example blogs from past students for inspiration: [Young Kim](https://tremendous-angora-935.notion.site/Young-s-Blog-17ab8f05f52b422b8f774fd8405fdcc8) (Notion), [Awanee Joshi](https://medium.com/@awaneemjoshi/list/awanees-physical-computing-blog-posts-5a2cc296e9f8) (Medium), [Poonam Patel](https://www.poonampatel.me/physical-computing-blog) (page in personal website)
 
 <br>
 
@@ -44,7 +46,9 @@ Grading will be based primarily on effort and quality of assigned work (60%), re
 
 ## Required Materials
 
-All needed materials will be provided in a Student Kit, that will be billed as a Course Materials Fee. Students have the option of buying additional materials to fulfill their project objectives. Tools and consumable supplies will be available in the VFL and in IxD's studio.
+Essential materials will be provided in a kit, which will be billed as a Course Materials Fee. Students have the option of buying additional materials to fulfill their project objectives. Some tools and consumable supplies will be available in the VFL (7th Floor) and in IxD's studio.
+
+More information available in the parts and tools page (Updating).
 
 <br>
 

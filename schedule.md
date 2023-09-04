@@ -112,8 +112,6 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 - Midterm Project Proposal
 - Serial Communication Lab II
 
-✦✦✦
-
 #### Assignments:
 
 - Lab: Serial Output Lab II, multiple values & handshaking (in lecture slides)
