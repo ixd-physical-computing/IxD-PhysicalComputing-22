@@ -1,6 +1,6 @@
 ## Class Schedule
 
-Weekly readings are shared [here]().
+Readings and resources are shared [here](https://www.are.na/viola-he/ixd-physical-computing).
 
 ✦✦✦
 
@@ -10,27 +10,22 @@ Welcome to physical computing! In this first session, we'll overview the course,
 
 - What is physical interaction? Differences between inplicit and explicit interactions.
 - Examples of physical computing projects (Biggest hits)
-- Electronics 101: Electricity, components, schematics, prototyping board, multimeter
+- Electronics 101: Electricity, components, schematics, prototyping board, multimeter.
+- Demo of paper & wire circuits.
 
-Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA19QoI0xWsFofZ4sm6MMcQsdkTg/edit?usp=sharing)
+#### Assignments (due 9/11):
 
-#### Assignments (due 9/15):
-
-- Use [this form](https://forms.gle/cp9gk1ZpJuEViTJq9) to submit a link to your blog. You can use your personal blog, or create a new one to document school work if you wish. Make sure to create a category or tag for "Physical Computing" work, and assign it to all posts for this class.
+- Use [this form](https://forms.gle/twYySfYZjFE1tWeY8) to complete the survey and submit a link to your blog. You can use your personal blog, or create a new one to document school work if you wish. Make sure to create a category or tag for "Physical Computing", and assign it to all posts for this class.
 - Lab: [Practice with a multimeter](Week-1/Practice-with-a-multimeter.html)
 - Lab: [Wires and Breadboards](Week-1/Wires-and-Breadboards.html)
 - Project: [Homemade Switch](Week-1/Home-made-switch.html)
 
 #### Read and Watch:
 
-- Forest Mims, **Getting Started with Electronics**. 13-page excerpt, though highly recommend reading the whole book.
-  - Pages 6, 7, 13, 14, 15, 16, 17, 20, 21, 28, 29, 30, 31
-- Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**. Out-dated in parts but still a great introduction to fundamentals. Read the following chapters:
+- Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**. Read the following chapters:
   - Introduction
   - Ch 1 Electricity
-  - Ch 3 Building Circuits
-    (ignore the serial connector part on page 43).
-- Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
+- Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law).
 
 ✦✦✦
 
@@ -41,9 +36,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
 - Microcontroller boards, programming environment, programming loops and logics
 - In-class lab: Digital Input + Output
 
-Lecture slides [here](https://docs.google.com/presentation/d/1qjM1ZCWfOvU7s9u7IPR_hCbj2E3cmpDB40TPoyh8mAg/edit?usp=sharing)
-
-#### Assignments (due 9/22):
+#### Assignments:
 
 - Lab: [Arduino basics](Week-2/Arduino-basics.html)
 - Lab: [Variable resistor sensors](Week-2/Variable-resistor-sensors.html)
@@ -65,9 +58,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1qjM1ZCWfOvU7s9u7IP
 - A little more programming: Operators, memory and variables, data types
 - In-class lab: Analog Input + Output
 
-Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8BflpLfZFYYmzwMUmk9-ZwswJrI/edit?usp=sharing)
-
-#### Assignments (due 9/29):
+#### Assignments:
 
 - Lab: [Tone Output](Week-3/Tone-output.html)
 - Lab: [Servo Control](Week-3/Servo-control.html)
@@ -88,13 +79,11 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 - Soldering demonstration
 - We're also going over midterm project, due in Week 7
 
-Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT8G4Q9h5Ixmfi7ORA9WDxmLus4/edit?usp=sharing)
-
 #### Read and Watch:
 
 - [Introduction to Serial Communication](Week-4/Intro-to-serial.html)
 
-#### Assignments (due 10/6):
+#### Assignments:
 
 - Lab: [Debouncing and Smoothing](Week-4/Debouncing-smoothing.html)
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
@@ -111,7 +100,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 
 Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_396)
 
-#### Assignments (due 10/13):
+#### Assignments:
 
 - Lab: [p5.js Lab](Week-5/p5js-lab.html)
 - Lab: [Arduino Serial Output Lab](Week-5/Serial-output-lab.html)
@@ -124,11 +113,9 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 - Midterm Project Proposal
 - Serial Communication Lab II
 
-Lecture slides [here](https://docs.google.com/presentation/d/1v_Jo6gZIdJlOPMcWARaRM2iJy7EEFJO7VJOx7kpo-Gg/edit?usp=sharing)
-
 ✦✦✦
 
-#### Assignments (due 10/20):
+#### Assignments:
 
 - Lab: Serial Output Lab II, multiple values & handshaking (in lecture slides)
 - Work on [Midterm Project](Projects/midterm.html)
@@ -148,41 +135,40 @@ Midterm projects development: we'll come around and help each group in case you 
 
 ✦✦✦
 
-### ✨ Week 9: Reinforcement on Topics
+### ✨ Week 9: Subject to Change
 
 - Reinforcement of unclear concepts
+- Advanced Topics I
 - Serial Communication Lab III: Handshaking, interfacing with sensors of your choice
-
-Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH3fwzL3Hb48LbnF2S3iw4Vmg_E/edit?usp=sharing)
 
 #### Read and Watch:
 
 - [Introduction to Serial Communication](Week-4/Intro-to-serial.html)
 
-#### Assignments (due 11/9):
+#### Assignments:
 
 - Post Midterm Documentation
 - Review in-class Handshaking lab
 - Lab (optional): [p5 Serial Out](Week-9/p5-serial-out.html)
-- Project: [p5-Arduino Communication](Week-9/p5-arduino-comm.html)
+- Project:
 
 ✦✦✦
 
-### ✨ Week 10: All about LED strips
+### ✨ Week 10: Subject to Change
 
 - Homework discussion!
-- LED strip & demonstrations
-
-Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSDqcdN67SFRIwNKWlKiviLiysCw/edit?usp=sharing)
+- Advanced Topics II
 
 #### Assignments (due 11/16):
 
-- Review in-class LED lab
-- Project: [Let there be Light](Week-10/light-project.html)
+- Review in-class lab
+- Project:
 
 #### Read and Watch:
 
 - We're going to talk about Synchronous Serial next week, preview the [introduction slides](https://docs.google.com/presentation/d/1pZAsBYkgei1l1Ofl2xaVa2SFMu2sS_uHSQXPSqcfz6k/edit?usp=sharing), and browse through Sparkfun's tutorials on the 2 most common protocols, [SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi) and [I2C](https://learn.sparkfun.com/tutorials/i2c).
+
+✦✦✦
 
 ### ✨ Week 11: Synchronous Serial Communication
 
@@ -197,22 +183,25 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 
 - [Final Project](Projects/final.html) Proposal
 
+✦✦✦
+
 ### Week 12: Thanksgiving, no class
 
-### Week 13 (12/1):
+✦✦✦
 
-- Transistors and Relays
+### Week 13: Finals Pitch
+
+- Reinforcement of unclear concepts
 - [Final Project](Projects/final.html) pitch & workshop
 
 #### Assignments:
 
 - Work on your final project
 
-### Week 14 (12/8):
+✦✦✦
 
-- In-class playtest
-- Guideline and schedule can be found [here](https://docs.google.com/presentation/d/1JvctM1dFaY6jaXa7eGWhVxec7sIdKYq4HlqfqKuwG9M/edit?usp=sharing)
+### Week 14: In-class playtest
 
-### Week 15 (12/15): Final Project Crit
+✦✦✦
 
-Documentation is due Tuesday, Dec 20th
+### Week 15: Final Project Crit

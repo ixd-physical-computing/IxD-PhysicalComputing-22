@@ -13,5 +13,3 @@ Learn about [breadboard internal connections](https://hellocircuits.com/2013/01/
 into your breadboard (distributed by TA), and using the continuity test feature on a multimeter to confirm connection of the wires.
 
 Write down any questions in your blog!
-
-_Note: you can attach a wire to anything else conductive like a metal water bottle, and then connect that to the breadboard, and then to a wire connected to anything else, plugged into the same row._

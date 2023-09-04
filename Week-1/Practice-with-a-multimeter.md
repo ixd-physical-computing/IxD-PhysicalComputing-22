@@ -1,7 +1,6 @@
 ## Lab: Practice with a multimeter
 
-Multimeters will be distributed to groups (1 per 3 people) by the class TA. More are available in the VFL (do not remove those from the 7th Floor). There are also a few in the tool chest in our 3rd Floor studio (do not remove those from the 3rd Floor!).
-A few assorted resistors will be distributed, there are more in the VFL supply cabinet (you can keep those).
+Multimeters are available in the VFL (do not remove those from the 7th Floor), as well as in our 3rd Floor studio (do not remove those from the 3rd Floor). You can get resistors from the VFL electronics cabinet or scavenge some in the 3rd Floor strudio (you can keep those).
 
 1. Practice [reading continuity](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/continuity)
 2. Practice [reading voltage](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/measuring-voltage)

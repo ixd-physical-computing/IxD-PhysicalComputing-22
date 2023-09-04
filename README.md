@@ -46,38 +46,22 @@ All needed materials will be provided in a Student Kit, that will be billed as a
 
 <br>
 
-## Recommended Readings
+## Recommended Readings (Updating)
 
-Readings and resources are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
+Readings and resources are shared [here](https://www.are.na/viola-he/ixd-physical-computing).
 
 <br>
 
 **Technical - selections from:**
 
-- Forest M. Mims III, Getting Started In Electronics (2003)
 - Charles Platt, Make: Electronics (2009)
 - Tom Igoe & Dan O’Sullivan, Physical Computing: Sensing and Controlling the Physical World with Computers (2005)
 - Tom Igoe, Making Things Talk: Practical Methods for Connecting Physical Objects (2007)
 
-**Conceptual & History - selections from:**
-
-- Medien Kunst Netz, Overview of Media Art: Immersion, Communication, Milestones
-- Söke Dinkla, The History of the Interface in Interactive Art (1994)
-- Roy Ascott, Behaviourist Art and the Cybernetic Vision (1967), Back To Nature II: Art and Technology in the Twenty-First Century (1995), Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness (2003)
-- Billy Klüver, The Great Northeastern Power Failure (1966)
-- Pam Meecham & Julie Sheldon, “From The Machine Aesthetic to Technoculture,” Modern Art: A Critical Introduction, 2nd Ed.(2005)
-- David Rokeby, “Transforming Mirrors: Subjectivity and Control in Interactive Media,” Critical Issues in Interactive Media, ed. Simon Penny (1996)
-- Sensorium: Embodied Experience, Technology, and Contemporary Art, ed. Caroline A. Jones (2006)
-- Joke Brouwer, Arjen Mulder & Anne Nigten, aRt&D: Research and Development in Art (2005)
-- Mark B. N. Hansen, Bodies In Code: Interfaces with Digital Media (2006)
-- Jonatham Benthall, Science and Art as Modes of Enquiry (1972)
-
 **Design - selections from:**
 
-- Vilém Flusser, The Shape Of Things: A Philosophy of Design (1999)
 - Donald Norman, The Design of Everyday Things (2002)
 - Chris Crawford, The Art of Interactive Design (2002)
-- Tor Nørretranders, The User Illusion: Cutting Consciousness Down To Size (1998)
 
 <br>
 
@@ -91,11 +75,11 @@ Weekly schedule will be updated [here](schedule.html)
 
 ### VFL Access
 
-Our class takes place at the Visible Futures Lab (VFL), a facility open to faculty and staff of SVA and all students of SVA graduate programs. Access to the VFL beyond makerspace outside of class time requires training and certification.
+Our class takes place at the Visible Futures Lab (VFL), a facility open to faculty and staff of SVA and all students of SVA graduate programs. Access to the VFL machines outside of the makerspace requires training and certification.
 
 Training sessions are offered for the wood shop, Shopbot (CNC gantry router), laser cutters and 3D printers and range from 1 to 3 hours.
 
-All users must have an appointment before accessing the VFL. To book an appointment, visit the [appointments](https://www.vfl.sva.edu/appointments) page on VFL's website.
+All users must have an appointment before accessing the VFL (except classes). To book an appointment, visit the [appointments](https://www.vfl.sva.edu/appointments) page on VFL's website.
 
 More information can be found [here](https://www.vfl.sva.edu/).
 
