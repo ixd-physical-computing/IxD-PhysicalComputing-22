@@ -20,7 +20,7 @@ Daniel Ryan Johnstons ([Office Hours](https://calendar.app.google/42C4A8LnMEVW6s
 
 ## Class Description
 
-This course is a practical, hands-on exploration of physically interactive technology for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Starting with the basics using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as complex output, including motors, video and intercommunication between objects. _Note: No previous programming or electronics experience is required._
+This course is a practical, hands-on exploration of physically interactive technology for designers. Students will examine how to interface objects and installations with the viewer's body and ambient stimuli, such as motion, light, sound and intangible data. Starting with the basics using the open-source Arduino platform, the class will move through electrical theory, circuit design, microcontroller programming and sensors, as well as complex output, including motors, video and intercommunication between objects. _No previous programming or electronics experience is required._
 
 <br>
 
@@ -48,9 +48,7 @@ All needed materials will be provided in a Student Kit, that will be billed as a
 
 ## Recommended Readings
 
-**Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).**
-
-**CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com).**
+Readings and resources are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
 
 <br>
 
@@ -90,6 +88,16 @@ Weekly schedule will be updated [here](schedule.html)
 <br>
 
 ## Policies
+
+### VFL Access
+
+Our class takes place at the Visible Futures Lab (VFL), a facility open to faculty and staff of SVA and all students of SVA graduate programs. Access to the VFL beyond makerspace outside of class time requires training and certification.
+
+Training sessions are offered for the wood shop, Shopbot (CNC gantry router), laser cutters and 3D printers and range from 1 to 3 hours.
+
+All users must have an appointment before accessing the VFL. To book an appointment, visit the [appointments](https://www.vfl.sva.edu/appointments) page on VFL's website.
+
+More information can be found [here](https://www.vfl.sva.edu/).
 
 ### Academic Integrity
 

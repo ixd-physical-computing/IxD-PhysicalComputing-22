@@ -1,10 +1,8 @@
 ## Class Schedule
 
-Weekly readings are shared [here](https://drive.google.com/drive/folders/14_zAcMBffM56HMbXtn9Qqgk34ObHQrnm?usp=sharing).
+Weekly readings are shared [here]().
 
-CLASS SITE with resources and examples: [www.hellocircuits.com](http://www.hellocircuits.com).
-
-...
+✦✦✦
 
 ### ✨ Week 1: Introductions and Electronics
 
@@ -34,7 +32,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1IMX5nqnP6cakpM9MA1
     (ignore the serial connector part on page 43).
 - Sparkfun tutorials on [Basic Electricity: Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 
-...
+✦✦✦
 
 ### ✨ Week 2: Microcontrollers
 
@@ -58,7 +56,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1qjM1ZCWfOvU7s9u7IP
 - Optional - Charles Platt, **Make: Electronics**
   - Introduction & Chapter 1: Experiencing Electricity
 
-...
+✦✦✦
 
 ### ✨ Week 3: Programming
 
@@ -80,7 +78,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1NRexncxBzfuWql_G8B
 - Tom Igoe & Dan O'Sullivan, **Physical Computing: Sensing and Controlling the Physical World with Computers**.
   - Ch 9 Sensing Movement. Skip the programming parts and focus on different criterias and methods of object sensing.
 
-...
+✦✦✦
 
 ### ✨ Week 4: Data Management
 
@@ -102,7 +100,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1TEWKf08ljkA9GOH_bT
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
 - [Midterm Project](Projects/midterm.html) Brainstorming
 
-...
+✦✦✦
 
 ### ✨ Week 5: Intro to Serial Communication
 
@@ -119,7 +117,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 - Lab: [Arduino Serial Output Lab](Week-5/Serial-output-lab.html)
 - [Midterm Project](Projects/midterm.html) Proposal
 
-...
+✦✦✦
 
 ### ✨ Week 6: Serial Communication, part II
 
@@ -128,27 +126,27 @@ Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxl
 
 Lecture slides [here](https://docs.google.com/presentation/d/1v_Jo6gZIdJlOPMcWARaRM2iJy7EEFJO7VJOx7kpo-Gg/edit?usp=sharing)
 
-...
+✦✦✦
 
 #### Assignments (due 10/20):
 
 - Lab: Serial Output Lab II, multiple values & handshaking (in lecture slides)
 - Work on [Midterm Project](Projects/midterm.html)
 
-...
+✦✦✦
 
 ### ✨ Week 7: Midterm Project Lab
 
 Midterm projects development: we'll come around and help each group in case you have any questions.
 
-...
+✦✦✦
 
 ### 🕹 Week 8: Midterm Crit!
 
 - Present your [Midterm Project](Projects/midterm.html).
 - Remember to complete [Midterm Feedback form](https://forms.gle/r7v41fQRNu1onkDPA) before next class!
 
-...
+✦✦✦
 
 ### ✨ Week 9: Reinforcement on Topics
 
@@ -168,7 +166,7 @@ Lecture slides [here](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH
 - Lab (optional): [p5 Serial Out](Week-9/p5-serial-out.html)
 - Project: [p5-Arduino Communication](Week-9/p5-arduino-comm.html)
 
-...
+✦✦✦
 
 ### ✨ Week 10: All about LED strips
 
