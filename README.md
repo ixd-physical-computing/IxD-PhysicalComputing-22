@@ -1,10 +1,10 @@
 ![physcomp.png](assets/physcomp-m.png)
 
-# IxD Physical Computing 🕹 Fall 2022
+# IxD Physical Computing 🕹 Fall 2023
 
 Syllabus for SVA MFA Interaction Design first year course, The Fundamentals of Physical Computing
 
-Thursdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
+Tuesdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
 [Class schedule](schedule.html) including session outlines, slides, readings and assignments.
 
@@ -12,9 +12,9 @@ Thursdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
 ## Instructors
 
-Eric Forman (Office Hours- Tuesdays and Thursdays 10:30am-1pm, 5pm-6pm; Fridays remote 11am-6pm): eforman1@sva.edu / [website](https://www.ericforman.com)
+Viola He (Office Hours): lhe21@sva.edu / [website](https://violand.xyz)
 
-Viola He (Office Hours- Wednesdays 5-8pm): viola@nyu.edu / [website](https://violand.xyz)
+Daniel Ryan Johnstons ([Office Hours](https://calendar.app.google/42C4A8LnMEVW6shV7)): djohnston2@sva.edu / [website](https://danielryanjohnston.com/fb90db9579e544a29c17db47927a1ed8)
 
 <br>
 
