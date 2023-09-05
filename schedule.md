@@ -12,6 +12,8 @@ Welcome to physical computing! In this first session, we'll overview the course,
 - Examples of physical computing projects (Biggest hits)
 - Electronics 101: Electricity, components, schematics, prototyping board, multimeter.
 
+Slides [here](https://docs.google.com/presentation/d/1BNlt7BTQHDxZWWk_gRgD39EtMDrNLAYyrUrzipeQKXs/edit?usp=sharing)
+
 #### Assignments (due 9/11):
 
 - Use [this form](https://forms.gle/twYySfYZjFE1tWeY8) to complete the survey and submit a link to your blog. You can use your personal blog, or create a new one to document school work if you wish. Make sure to create a category or tag for "Physical Computing", and assign it to all posts for this class.

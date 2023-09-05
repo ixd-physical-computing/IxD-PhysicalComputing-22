@@ -30,7 +30,7 @@ This course is a practical, hands-on exploration of physical interaction for des
 
 **Assignments**: Each week you're expected to review and practice materials in lab assignments, complete project assignments, and document your progress and questions in your Physical Computing blog. There will be two group projects for midterm and final, which you will show on Week 7 and Week 14.
 
-**Documentation**: Blog posts are due 23:59, Monday before each class. A good blog post should include ideation, design, circuit diagram/schematic, photos and videos of your process, and a showcase of the final result. Here're a couple of example blogs from past students for inspiration: [Young Kim](https://tremendous-angora-935.notion.site/Young-s-Blog-17ab8f05f52b422b8f774fd8405fdcc8) (Notion), [Awanee Joshi](https://medium.com/@awaneemjoshi/list/awanees-physical-computing-blog-posts-5a2cc296e9f8) (Medium), [Poonam Patel](https://www.poonampatel.me/physical-computing-blog) (page in personal website)
+**Documentation**: Blog posts are due 23:59, Monday before each class. A good blog post should include ideation, design, circuit diagram/schematic, photos and videos of your process, and a showcase of the final result. Here're a couple of example blogs from past students for inspiration: [Young Kim](https://tremendous-angora-935.notion.site/Young-s-Blog-17ab8f05f52b422b8f774fd8405fdcc8) (Notion), [Awanee Joshi](https://medium.com/@awaneemjoshi/list/awanees-physical-computing-blog-posts-5a2cc296e9f8) (Medium), [Jueun Jeon](https://www.jueunjeon.design/sva-blog/fall-2022/phys-comp.html) (page in personal website)
 
 <br>
 

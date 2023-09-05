@@ -12,7 +12,7 @@ Write a blog post about your process and final result. Write down any questions 
 
 ### COMPONENTS:
 
-You can find wires of various colors, resistors, and LEDs in the VFL supply closet and in our 3rd Floor Studio (Ask Rodel if you need anything specific). Additionally, you can get 9V battery connectors, more LEDs, electrical tape, and lots of other stuff locally at MicroCenter or online at [Sparkfun]() or [Adafruit](). If you're ordering parts online, remember to make time for shipping.
+We will distribute more components on Thursday. For now, you can find wires of various colors, resistors, and LEDs in the VFL supply closet and in our 3rd Floor Studio (Ask Rodel if you need anything specific). Additionally, you can get 9V battery connectors, more LEDs, electrical tape, and lots of other stuff locally at MicroCenter or online at [Sparkfun](https://www.sparkfun.com/?gclid=EAIaIQobChMIo82r5bSUgQMVw4poCR256ATwEAAYASAAEgKbJPD_BwE) or [Adafruit](https://www.adafruit.com/). If you're ordering parts online, remember to make time for shipping.
 
 ### HELPFUL TIPS:
 
@@ -28,8 +28,6 @@ To light up more LEDs! You don't need resistors for a single coin cell battery. 
 
 #### RESOURCES:
 
-Review: [Breadboard internal connections](https://hellocircuits.com/2013/01/19/breadboard-internal-connections/)
-
 Eample: [LED circuit with 9V battery](https://hellocircuits.com/2013/01/19/simple-led-circuit-with-9v-battery/)
 
 - Note that it calls for a 350-470 ohm resistor, but a 220 ohm resistor with one LED will work (just will reduce its life a bit). 1k (1000) ohm resistor will work too although LED will be a bit dim. You can use a 3V coin battery if you want something small, with it you can get away with no resistor at all.
@@ -44,6 +42,7 @@ Practice Ohm's Law on your own, verify with this [calculator](http://ledcalculat
 
 Here's a more in depth explanation of [using Ohm's Law with multiple LEDs](https://ericjformanteaching.wordpress.com/2017/09/15/ohms-law-and-seriesparallel/)
 
-### INSPIRATION:
+### INSPIRATIONS
 
-Not due next week, but you can start browsing this [huge list](https://hellocircuits.com/resources/#otherwork) of physical computing related art projects for fun and inspiration:
+Some projects from last year's students: [Sunwoo's blog](https://sunwoopark.notion.site/Week-1-A-Home-Made-Switch-fda4367647634878bc5af4a55d3342a2),
+[Brenda's blog](https://brendason.notion.site/Homemade-Switch-f0e2a688aa274d07af95be87da1a4ae3),
