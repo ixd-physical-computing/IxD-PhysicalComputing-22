@@ -12,7 +12,7 @@
 
 💪 [Jisang Kim](https://jisangkim.notion.site/Jisang-s-Blog-5cd7b3e84def4860a97b58a460e7b530)
 
-🐱 Leticia Li
+🐱 [Leticia Li](https://leticiali.notion.site/Leticia-s-Physical-Computing-Blog-2fbde44e9e2440749a5f7bc02f63623d)
 
 🐱 Minji Yoouk
 
