@@ -6,7 +6,7 @@ Next, learn about the following components that offer variable resistance.
 
 ### Potentiometer
 
-A potentiometer has a metal contact, called a wiper, slides along a resistor, deviding the resistor into two halves.
+A potentiometer has a metal contact, called a wiper, slides along a resistor, deviding the resistor into two halves. You can get these from the VFL or our Physical Computing cart in Rodel's office.
 
 ![different potentiometers](assets/pot-diagram.png)
 ![potentiometer inside](assets/pot-inside.png)
@@ -15,11 +15,11 @@ _second image from [ITP Physical Computing](https://itp.nyu.edu/physcomp/lessons
 
 ### Photocell
 
-Unlike a potentiometer, most other variable resistors - like the photoresister (photocell) - only have one resistance that changes (which you can tell because there are only two pins to connect its endpoints, not three). So to make a voltage divider in those cases, you need to add a second resistor yourself
+Unlike a potentiometer, most other variable resistors - like the photoresister (photocell) - only have one resistance that changes (which you can tell because there are only two pins to connect its endpoints, not three). So to make a voltage divider in those cases, you need to add a second resistor yourself.
 
 ![photocell as divider](assets/photocell-divider.png)
 
-Read the Sparkfun guide on [using a photocell](https://learn.sparkfun.com/tutorials/photocell-hookup-guide/all).
+Read the Sparkfun guide on [using a photocell](https://learn.sparkfun.com/tutorials/photocell-hookup-guide/all). You can also get these from the VFL or our Physical Computing cart in Rodel's office.
 
 ### Stretch sensor, Flex sensor, Pressure sensor/FSR, etc.
 
@@ -27,7 +27,7 @@ Read the Sparkfun guide on [using a photocell](https://learn.sparkfun.com/tutori
 
 There are many other sensors that use a variably resistive material. In the photo, a stretch sensor (top), and a pressure sensor/FSR (bottom) is made of conductive rubber, which changes resistence when it's being stretched or pressed. A flex sensor (middle) can be made of many different materials, and is used to measures the amount of deflection or bending.
 
-When your complete kit arrive, you'll have a pressure sensor and a flex sensor at hand. Read the Sparkfun tutorials if you're interested in using them: [pressure sensor](https://learn.sparkfun.com/tutorials/force-sensitive-resistor-hookup-guide), [flex sensor](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide)
+You can check these out from our cart (Ask Rodel). Read the Sparkfun tutorials if you're interested in using them: [pressure sensor](https://learn.sparkfun.com/tutorials/force-sensitive-resistor-hookup-guide), [flex sensor](https://learn.sparkfun.com/tutorials/flex-sensor-hookup-guide)
 
 You can even make your own sensor at home! [This tutorial](https://www.instructables.com/How-to-Make-FLEX-Sensor-at-Home-DIY-Flex-Sensor/) shows how to make a flex sensor with cardboard and tin foil. If you're interested in DIY varying resistor sensors, espeically soft electronics / wearables, [How to Get What You Want](https://www.kobakant.at/DIY/) is a great website for related resources.
 
