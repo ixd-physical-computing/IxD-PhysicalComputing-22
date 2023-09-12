@@ -1,6 +1,7 @@
 ## Class Schedule
 
 Readings and resources are shared [here](https://www.are.na/viola-he/ixd-physical-computing).
+Fall 2023 [students](student-blogs.html)
 
 ...
 
