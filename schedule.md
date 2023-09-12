@@ -39,7 +39,9 @@ Slides [here](https://docs.google.com/presentation/d/1BNlt7BTQHDxZWWk_gRgD39EtMD
 - Microcontroller boards, programming environment, programming loops and logics
 - In-class lab: Digital Input + Output
 
-#### Assignments:
+Slides [here](https://docs.google.com/presentation/d/1VS7N0HvjiA0UEFvJYxDiMZeHUHpPGYVPqeyCyP4t-_0/edit?usp=sharing)
+
+#### Assignments (Due 9/18):
 
 - Lab: [Arduino basics](Week-2/Arduino-basics.html)
 - Lab: [Variable resistor sensors](Week-2/Variable-resistor-sensors.html)
@@ -49,8 +51,6 @@ Slides [here](https://docs.google.com/presentation/d/1BNlt7BTQHDxZWWk_gRgD39EtMD
 #### Read and Watch:
 
 - Brian W. Evans, **Arduino Programming Notebook v6**. Page 7-12: structure, variables, datatype
-- Optional - Charles Platt, **Make: Electronics**
-  - Introduction & Chapter 1: Experiencing Electricity
 
 ...
 

@@ -32,7 +32,7 @@
 
 🤯 [Yiwei Cheng](https://yiweichengdesign.com/4218952/20/)
 
-🥳 Youer Zhao
+🥳 [Youer Zhao](https://exciting-mine-14f.notion.site/Youer-s-Blog-ccce1775e1964bd5b3d06b064784930d)
 
 💖 Yujeong Bae
 
