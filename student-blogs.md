@@ -1,8 +1,12 @@
 ### ♡ ⁺˚⋆°✩₊⋆｡ ‧̥·̊ Fall 2023 Students ·̊‧̥ ｡⋆₊✩˚⋆⁺ ♡
 
+🌱 Chae Ri Bong
+
 👻 [Hannah Kim](https://nhkmforschool.notion.site/nhkmforschool/Hannah-s-Physical-Computing-Blog-ac14850725fd4e98bb66ec5695d592d2)
 
 🌚 [Het Nagda](https://www.het.design/physical-computing)
+
+🤞 [Hyeona Lee](https://held-airplane-149.notion.site/Hyeona-s-Blog_IxD-Physical-Computing-1095e59ef3f74be5b5d850054e73a359?pvs=4)
 
 🫠 [Iris Hu](https://ooirisoo.notion.site/Iris-s-Blog-for-Physical-Computing-05f0217602d447c5a27b3116b74d3be6?pvs=4)
 
@@ -34,6 +38,4 @@
 
 🍄 [Yuri Shin](https://medium.com/@houseyuri)
 
-🤞 [Hyeona Lee](https://held-airplane-149.notion.site/Hyeona-s-Blog_IxD-Physical-Computing-1095e59ef3f74be5b5d850054e73a359?pvs=4)
-
-🌱 Chae Ri Bong
+🌱 Zi Ai Guo

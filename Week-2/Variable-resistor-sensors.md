@@ -1,10 +1,8 @@
-Variable resistors are components that are able to have their resistance adjusted, changing from zero to a maximum value. For example, potentiometer, the component you used in the [Arduino Basics Lab](Arduino-basics.html), is a varaible resistor. You can use them in a simple circuit with an LED to adjust brightness, or in a ***voltage divider circuit*** to be read by an Arduino, in order to produce different outputs. 
+Variable resistors are components that are able to have their resistance adjusted, changing from zero to a maximum value. For example, potentiometer, the component you used in the [Arduino Basics Lab](Arduino-basics.html), is a varaible resistor. You can use them in a simple circuit with an LED to adjust brightness, or in a **_voltage divider circuit_** to be read by an Arduino, in order to produce different outputs.
 
-**Voltage dividers** are a commonly used circuit that outputs voltage proportional to the ratio between two resistors. For your purposes, this is used frequently to convert variable resistance into variable voltage, for the Arduino board to read as input. Read about it on [Hello Circuits](https://hellocircuits.com/2013/02/04/voltage-divider-circuit/) - Go over it slowly. Don't worry about the math, but do understand the basic concepts, and most importantly, how you can use this to make your own circuits.
-
+**Voltage dividers** are a commonly used circuit that outputs voltage proportional to the ratio between two resistors. For your purposes, this is used frequently to convert variable resistance into variable voltage, for the Arduino board to read as input. Browse through [this article](https://hellocircuits.com/2013/02/04/voltage-divider-circuit/) - Go over it slowly. Don't worry about the math, but do understand the basic concepts, and most importantly, how you can use this to make your own circuits.
 
 Next, learn about the following components that offer variable resistance.
-
 
 ### Potentiometer
 
@@ -13,7 +11,7 @@ A potentiometer has a metal contact, called a wiper, slides along a resistor, de
 ![different potentiometers](assets/pot-diagram.png)
 ![potentiometer inside](assets/pot-inside.png)
 
-*second image from [ITP Physical Computing](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)*
+_second image from [ITP Physical Computing](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)_
 
 ### Photocell
 
@@ -33,25 +31,21 @@ When your complete kit arrive, you'll have a pressure sensor and a flex sensor a
 
 You can even make your own sensor at home! [This tutorial](https://www.instructables.com/How-to-Make-FLEX-Sensor-at-Home-DIY-Flex-Sensor/) shows how to make a flex sensor with cardboard and tin foil. If you're interested in DIY varying resistor sensors, espeically soft electronics / wearables, [How to Get What You Want](https://www.kobakant.at/DIY/) is a great website for related resources.
 
-
-
 Optional: If you really want to understand the theory behind voltage dividers, read the [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/voltage-dividers). Don't worry if this is too technical for you, what's important is knowing how to use it to help you make what you want to make.
 
-
 ### Lab Exercise
-
-Note: Do this if your kit arrived by Tuesday! 
 
 Hook up at least one, preferably two, variable resistors in a breadboard with power and ground and an LED. Remember to include a static resistor in series to protect the LED. See example circuit below. Practice using the multimeter to see how resistance changes as you manipulate the sensor.
 
 If you're still unclear about how to use a multimeter: go back to the [multimeter lab](https://ixd-physical-computing.github.io/IxD-PhysicalComputing-22/Week-1/Practice-with-a-multimeter.html) from last week, and read [this](http://www.sciencebuddies.org/science-fair-projects/project_ideas/Elec_primer-multimeter.shtml) for a different take.
- 
-Tips: 
+
+Tips:
+
 - Put in short extra wires on the same rows as the resistor legs (or other points plus ground if you are testing voltage) to provide extra places to probe with multimer
 - Use alligator clips and/or other aids like tape and cardboard to keep the circuit connections stable while you read the multimeter.
 - Prop up the multimeter using the stand in the back, or leaning on something, so you can easily see the display and adjust the mode knob while you work.
 - Measure resistance with the power OFF. Measure voltage with the power ON.
- 
+
 Next, turn the power on and see how the LED brightness varies as you manipulate the sensor. Note how the dimmest and brightest behavior is different for each sensor because its resistance is different. Some go from 0 - 10,000 ohms. Some go from 300 - 30,000 ohms. Other factors such as ambient brightness with a photocell will also effect the resistance differently if you move the circuit to a different room.
 
 Example Circuit with Pressure Sensor:
@@ -60,5 +54,3 @@ Example Circuit with Pressure Sensor:
 ![potentiometer inside](assets/fsr-schematic.png)
 
 Blog about your findings and questions!
-
-
