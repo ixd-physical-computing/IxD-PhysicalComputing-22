@@ -59,7 +59,7 @@ Slides [here](https://docs.google.com/presentation/d/1VS7N0HvjiA0UEFvJYxDiMZeHUH
 - Homework discussion: share your enhanced switch projects, and go over questions about electronics or anything that came up.
 - A little more interfacing: Advanced sensors
 - A little more programming: Operators, memory and variables, data types
-- In-class lab: Analog Input + Output
+- In-class lab: Analog Input + Tone Output
 
 #### Assignments:
 

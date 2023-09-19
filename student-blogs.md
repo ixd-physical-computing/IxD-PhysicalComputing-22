@@ -34,7 +34,7 @@
 
 🥳 [Youer Zhao](https://exciting-mine-14f.notion.site/Youer-s-Blog-ccce1775e1964bd5b3d06b064784930d)
 
-💖 Yujeong Bae
+💖 [Yujeong Bae](https://spiral-keyboard-a10.notion.site/Yujeong-s-Physical-Computing-fa7c510746a041b6ba30159b878d460a?pvs=4)
 
 🍄 [Yuri Shin](https://medium.com/@houseyuri)
 
