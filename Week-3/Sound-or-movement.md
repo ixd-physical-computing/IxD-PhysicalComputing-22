@@ -1,6 +1,6 @@
 ## Project 2: Sound or Movement
 
-Based on what you learned from the labs this week, create a simple application with either sound or movement as an output. Having multiple inputs would be a good challenge for this project; it's a good way to practing using if() statements and boolean logics to create different conditions for different outputs.
+Based on what you learned from the labs this week, create a simple application with either sound or movement as an output. Having multiple inputs would be a good challenge for this project; it's a good way to practing using `if()` statements and boolean logics to create different conditions for different outputs.
 
 ### Working with Sound
 
@@ -12,7 +12,9 @@ If you're interested in producing some kind of melody, look into [this tutorial]
 
 ### Working with Movement
 
-The most challenging part of working with motors is going to be attatchment and mechanisms. There are many simple machines you can design to create different types of movements, Rob Ive's [Mechanism page](https://www.robives.com/mechanism/) is a great resource. Of course, it can be as simple or as you want it to be, for example, a [sunflower rotating towards the light](https://create.arduino.cc/projecthub/Mako_/arduino-sunflower-c4fd84?ref=tag&ref_id=servo&offset=1), a monster opening and closing its mouth if you feed it. Using lighter materials help too!
+Servo motors are powerful little things -- They can be used to push buttons, lift things up, rotate things around, uhh, [pat people??](https://fletcherbach.com/FRSK04)... and many other ways to create movements.
+
+The most challenging part of working with motors is going to be attatchment and mechanisms. There are many simple machines you can design to create different types of movements, Rob Ive's [Mechanism page](https://www.robives.com/mechanism/) is a great resource. Of course, it can be as simple or as you want it to be, for example, a [sunflower rotating towards the light](https://create.arduino.cc/projecthub/Mako_/arduino-sunflower-c4fd84?ref=tag&ref_id=servo&offset=1), a monster opening and closing its mouth if you feed it, etc. Using lighter materials help too!
 
 ...
 
