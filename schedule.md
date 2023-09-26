@@ -80,7 +80,7 @@ Slides [here](https://docs.google.com/presentation/d/1VS7N0HvjiA0UEFvJYxDiMZeHUH
 - Review basic concepts, answer questions.
 - Managing Sensor Data: Graphing over time, smoothing techniques, filtering out unwanted data
 - Soldering demonstration
-- We're also going over midterm project, due in Week 7
+- We're also going over midterm project, due in Week 8
 
 #### Read and Watch:
 
@@ -90,7 +90,7 @@ Slides [here](https://docs.google.com/presentation/d/1VS7N0HvjiA0UEFvJYxDiMZeHUH
 
 - Lab: [Debouncing and Smoothing](Week-4/Debouncing-smoothing.html)
 - Research: [Sensor and Project Research](Week-4/Sensor-project-research.html)
-- [Midterm Project](Projects/midterm.html) Brainstorming
+- [Midterm Project](Projects/midterm.html) Brainstorm
 
 ...
 
@@ -100,8 +100,6 @@ Slides [here](https://docs.google.com/presentation/d/1VS7N0HvjiA0UEFvJYxDiMZeHUH
 - Serial Communication: Theory, protocols, data encoding
 - [Serial Communication](Week-5/Serial-p5.html) Lab with p5.js
 - Interfacing with different softwares
-
-Lecture slides [here](https://docs.google.com/presentation/d/1SWo6lEEp1WgR5B6kxlWtKhT3AZTuQrvWmHjWDj5lxUg/edit#slide=id.g15f148ef1d0_0_396)
 
 #### Assignments:
 
@@ -129,18 +127,14 @@ Midterm projects development: we'll come around and help each group in case you 
 
 ...
 
-### 🕹 Week 8: Midterm Crit!
-
-- Present your [Midterm Project](Projects/midterm.html).
-- Remember to complete [Midterm Feedback form](https://forms.gle/r7v41fQRNu1onkDPA) before next class!
+### 🕹 Week 8: Midterm Playtest!
 
 ...
 
-### ✨ Week 9: Subject to Change
+### ✨ Week 9: Midterm Crit!
 
-- Reinforcement of unclear concepts
-- Advanced Topics I
-- Serial Communication Lab III: Handshaking, interfacing with sensors of your choice
+- Present your [Midterm Project](Projects/midterm.html).
+- Remember to complete [Midterm Feedback form](https://forms.gle/r7v41fQRNu1onkDPA) before next class!
 
 #### Read and Watch:
 
@@ -151,14 +145,14 @@ Midterm projects development: we'll come around and help each group in case you 
 - Post Midterm Documentation
 - Review in-class Handshaking lab
 - Lab (optional): [p5 Serial Out](Week-9/p5-serial-out.html)
-- Project:
-
 ...
 
 ### ✨ Week 10: Subject to Change
 
 - Homework discussion!
-- Advanced Topics II
+- Reinforcement of unclear concepts
+- Advanced Topics
+- Serial Communication Lab III: Handshaking, interfacing with sensors of your choice
 
 #### Assignments (due 11/16):
 
@@ -186,7 +180,9 @@ Lecture slides [here](https://docs.google.com/presentation/d/1cooFwf8zWiCD1rRwSD
 
 ...
 
-### 😴 Week 12: Thanksgiving, no class
+### 😴 Week 12: Thanksgiving, but we have class
+
+plans TBD
 
 ...
 

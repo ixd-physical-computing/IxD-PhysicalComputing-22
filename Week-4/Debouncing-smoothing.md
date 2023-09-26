@@ -18,5 +18,3 @@ Build the Arduino [smoothing example](https://docs.arduino.cc/built-in-examples/
 
 - Try it out and experiment with changing the amount of smoothing by changing `numReadings`
 - Note that they are using a potentiometer - the results will be more dramatic if you test with a noisy sensor. Wire it first with a potentiometerhen, then experiment with a photocell, flex sensor, distance sensor, and/or sound sensor
-
-There are other ways of smoothing which are more efficient code and more reusable (but harder to understand for beginners). You can however just copy and paste the function and use it in your code. Here is Eric's version on [Hello Circuit](https://hellocircuits.com/2013/10/08/smoothing-sensor-input/).
