@@ -4,7 +4,7 @@
 
 👻 [Hannah Kim](https://nhkmforschool.notion.site/nhkmforschool/Hannah-s-Physical-Computing-Blog-ac14850725fd4e98bb66ec5695d592d2)
 
-🌚 [Het Nagda](https://www.het.design/physical-computing)
+🌚 [Het Nagda](https://het-nagda.notion.site/Het-Nagda-s-Blog-Physical-Computing-aec7638f5f0647cd82644a2dde6c805a)
 
 🤞 [Hyeona Lee](https://held-airplane-149.notion.site/Hyeona-s-Blog_IxD-Physical-Computing-1095e59ef3f74be5b5d850054e73a359?pvs=4)
 
