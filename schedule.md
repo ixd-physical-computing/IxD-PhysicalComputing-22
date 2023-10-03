@@ -61,6 +61,8 @@ Slides [here](https://docs.google.com/presentation/d/1VS7N0HvjiA0UEFvJYxDiMZeHUH
 - A little more programming: Operators, memory and variables, data types
 - In-class lab: Analog Input + Tone Output
 
+Slides [here](https://docs.google.com/presentation/d/1zr4uFMa38BAbdmg6rk5jCrzb9nTZABxhda04SW0INiE/edit?usp=sharing)
+
 #### Assignments:
 
 - Lab: [Tone Output](Week-3/Tone-output.html)
@@ -81,6 +83,8 @@ Slides [here](https://docs.google.com/presentation/d/1VS7N0HvjiA0UEFvJYxDiMZeHUH
 - Managing Sensor Data: Graphing over time, smoothing techniques, filtering out unwanted data
 - Soldering demonstration
 - We're also going over midterm project, due in Week 8
+
+Slides [here](https://docs.google.com/presentation/d/11w5ixuYMUpDlC6M-I1V6UrvKsctikvtaZwJv6hzkVAM/edit?usp=sharing)
 
 #### Read and Watch:
 
